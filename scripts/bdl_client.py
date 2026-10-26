@@ -5,14 +5,24 @@ Endpointy i nazwy parametrów trzeba potwierdzić w oficjalnej dokumentacji GUS
 """
 from __future__ import annotations
 
+import re
 import os
 import time
+import requests
+
 from datetime import datetime, timezone
 
-import requests
 
 BASE_URL = "https://bdl.stat.gov.pl/api/v1"
 
+
+def _retry_after_seconds(value: str | None, attempt: int) -> float:
+    """GUS zwraca np. '140 sek'; standardowo byłoby samo '140'. Przy nieznanym formacie: backoff."""
+    if value:
+        m = re.fullmatch(r"\s*(\d+(?:[.,]\d+)?)\s*(?:s|sek\w*|sec\w*)?\s*", value, re.I)
+        if m:
+            return float(m.group(1).replace(",", "."))
+    return float(2 ** attempt * 2)
 
 class BdlClient:
     def __init__(self, client_id: str | None = None, lang: str = "pl",
@@ -32,7 +42,7 @@ class BdlClient:
         for attempt in range(self.max_retries):
             resp = self.session.get(url, params=query, timeout=30)
             if resp.status_code == 429:  # limit zapytań
-                wait = float(resp.headers.get("Retry-After", 2 ** attempt * 2))
+                wait = _retry_after_seconds(resp.headers.get("Retry-After"), attempt)
                 print(f"429 - czekam {wait:.0f}s (próba {attempt + 1})")
                 time.sleep(wait)
                 continue

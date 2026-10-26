@@ -25,7 +25,7 @@ def cmd_subjects(client, args):
 
 
 def cmd_variables(client, args):
-    pages = client.get_all_pages("variables/search", {"name": args.name})
+    pages = client.get_all_pages("variables/search", {"name": args.name}, max_pages=args.max_pages)
     for page in pages:
         for v in page["response"].get("results", []):
             print(f"{v.get('id')}\tpoziom={v.get('level')}\t{v.get('n1')} | {v.get('n2', '')}"
