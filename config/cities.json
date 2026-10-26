@@ -1,20 +1,74 @@
 [
-  {"city": "Białystok", "unit_id": null},
-  {"city": "Bydgoszcz", "unit_id": null},
-  {"city": "Toruń", "unit_id": null},
-  {"city": "Gdańsk", "unit_id": null},
-  {"city": "Gorzów Wielkopolski", "unit_id": null},
-  {"city": "Katowice", "unit_id": null},
-  {"city": "Kielce", "unit_id": null},
-  {"city": "Kraków", "unit_id": null},
-  {"city": "Lublin", "unit_id": null},
-  {"city": "Łódź", "unit_id": null},
-  {"city": "Olsztyn", "unit_id": null},
-  {"city": "Opole", "unit_id": null},
-  {"city": "Poznań", "unit_id": null},
-  {"city": "Rzeszów", "unit_id": null},
-  {"city": "Szczecin", "unit_id": null},
-  {"city": "Warszawa", "unit_id": null},
-  {"city": "Wrocław", "unit_id": null},
-  {"city": "Zielona Góra", "unit_id": null}
+  {
+    "city": "Białystok",
+    "unit_id": "062013761000"
+  },
+  {
+    "city": "Bydgoszcz",
+    "unit_id": "040410661000"
+  },
+  {
+    "city": "Toruń",
+    "unit_id": "040410663000"
+  },
+  {
+    "city": "Gdańsk",
+    "unit_id": "042214361000"
+  },
+  {
+    "city": "Gorzów Wielkopolski",
+    "unit_id": "020811361000"
+  },
+  {
+    "city": "Katowice",
+    "unit_id": "012414869000"
+  },
+  {
+    "city": "Kielce",
+    "unit_id": "052615261000"
+  },
+  {
+    "city": "Kraków",
+    "unit_id": "011212161000"
+  },
+  {
+    "city": "Lublin",
+    "unit_id": "060611163000"
+  },
+  {
+    "city": "Łódź",
+    "unit_id": "051011661000"
+  },
+  {
+    "city": "Olsztyn",
+    "unit_id": "042815662000"
+  },
+  {
+    "city": "Opole",
+    "unit_id": "031613261000"
+  },
+  {
+    "city": "Poznań",
+    "unit_id": "023016264000"
+  },
+  {
+    "city": "Rzeszów",
+    "unit_id": "061813563000"
+  },
+  {
+    "city": "Szczecin",
+    "unit_id": "023216562000"
+  },
+  {
+    "city": "Warszawa",
+    "unit_id": "071412865000"
+  },
+  {
+    "city": "Wrocław",
+    "unit_id": "030210564000"
+  },
+  {
+    "city": "Zielona Góra",
+    "unit_id": "020811462000"
+  }
 ]
