@@ -1,0 +1,671 @@
+99719	poziom=3	ludność zameldowana na pobyt czasowy | ogółem	[osoba]	temat=P1362
+99718	poziom=3	ludność zameldowana na pobyt czasowy | ogółem	[osoba]	temat=P1362
+99722	poziom=3	ludność zameldowana na pobyt czasowy | ogółem	[osoba]	temat=P1362
+99720	poziom=3	ludność zameldowana na pobyt czasowy | miasta	[osoba]	temat=P1362
+99723	poziom=3	ludność zameldowana na pobyt czasowy | miasta	[osoba]	temat=P1362
+99715	poziom=3	ludność zameldowana na pobyt czasowy | miasta	[osoba]	temat=P1362
+99721	poziom=3	ludność zameldowana na pobyt czasowy | wieś	[osoba]	temat=P1362
+99716	poziom=3	ludność zameldowana na pobyt czasowy | wieś	[osoba]	temat=P1362
+99717	poziom=3	ludność zameldowana na pobyt czasowy | wieś	[osoba]	temat=P1362
+3872	poziom=3	ludność czasowo nieobecna w miejscu stałego zameldowania | ogółem	[osoba]	temat=P1362
+32402	poziom=3	ludność czasowo nieobecna w miejscu stałego zameldowania | ogółem	[osoba]	temat=P1362
+32403	poziom=3	ludność czasowo nieobecna w miejscu stałego zameldowania | ogółem	[osoba]	temat=P1362
+3873	poziom=3	ludność czasowo nieobecna w miejscu stałego zameldowania | miasta	[osoba]	temat=P1362
+3875	poziom=3	ludność czasowo nieobecna w miejscu stałego zameldowania | miasta	[osoba]	temat=P1362
+3874	poziom=3	ludność czasowo nieobecna w miejscu stałego zameldowania | miasta	[osoba]	temat=P1362
+3876	poziom=3	ludność czasowo nieobecna w miejscu stałego zameldowania | wieś	[osoba]	temat=P1362
+3878	poziom=3	ludność czasowo nieobecna w miejscu stałego zameldowania | wieś	[osoba]	temat=P1362
+3877	poziom=3	ludność czasowo nieobecna w miejscu stałego zameldowania | wieś	[osoba]	temat=P1362
+4238	poziom=3	ludność ogółem w wieku 15 lat i więcej (stan na 31 grudnia) | ogółem	[osoba]	temat=P1385
+4239	poziom=3	ludność ogółem w wieku 15 lat i więcej (stan na 31 grudnia) | mężczyźni	[osoba]	temat=P1385
+4240	poziom=3	ludność ogółem w wieku 15 lat i więcej (stan na 31 grudnia) | kobiety	[osoba]	temat=P1385
+492	poziom=6	ludność korzystająca z sieci wodociągowej w miastach | 	[osoba]	temat=P1600
+9152	poziom=6	ludność korzystająca z sieci wodociągowej | 	[osoba]	temat=P1600
+1641698	poziom=6	ludność korzystająca z sieci wodociągowej na wsi | 	[osoba]	temat=P1600
+496	poziom=6	ludność korzystająca z sieci kanalizacyjnej w miastach | 	[osoba]	temat=P1601
+9153	poziom=6	ludność korzystająca z sieci kanalizacyjnej | 	[osoba]	temat=P1601
+1641700	poziom=6	ludność korzystająca z sieci kanalizacyjnej na wsi | 	[osoba]	temat=P1601
+2119	poziom=6	ludność korzystająca z oczyszczalni ścieków miejskich i wiejskich | ogółem	[osoba]	temat=P1670
+10087	poziom=6	ludność korzystająca z oczyszczalni ścieków miejskich i wiejskich | z podwyższonym usuwaniem biogenów	[osoba]	temat=P1670
+55910	poziom=7	ludność w mieszkaniach zamieszkanych stale | ogółem	[osoba]	temat=P2196
+55907	poziom=7	ludność w mieszkaniach zamieszkanych stale | wodociąg razem	[osoba]	temat=P2196
+55904	poziom=7	ludność w mieszkaniach zamieszkanych stale | wodociąg z sieci	[osoba]	temat=P2196
+55918	poziom=7	ludność w mieszkaniach zamieszkanych stale | wodociąg lokalny	[osoba]	temat=P2196
+55898	poziom=7	ludność w mieszkaniach zamieszkanych stale | bez wodociągu	[osoba]	temat=P2196
+55914	poziom=7	ludność w mieszkaniach zamieszkanych stale | ustęp spłukiwany razem	[osoba]	temat=P2196
+55917	poziom=7	ludność w mieszkaniach zamieszkanych stale | ustęp spłukiwany z odprowadzeniem do sieci	[osoba]	temat=P2196
+55916	poziom=7	ludność w mieszkaniach zamieszkanych stale | ustęp spłukiwany z odprowadzeniem do urządzenia lokalnego	[osoba]	temat=P2196
+56288	poziom=7	ludność w mieszkaniach zamieszkanych stale | ogółem	[osoba]	temat=P2204
+56285	poziom=7	ludność w mieszkaniach zamieszkanych stale | CO zbiorowe	[osoba]	temat=P2204
+56297	poziom=7	ludność w mieszkaniach zamieszkanych stale | CO indywidualne	[osoba]	temat=P2204
+56291	poziom=7	ludność w mieszkaniach zamieszkanych stale | piece	[osoba]	temat=P2204
+56303	poziom=5	ludność w mieszkaniach zamieszkanych stale | ogółem	[osoba]	temat=P2205
+56341	poziom=5	ludność w mieszkaniach zamieszkanych stale | CO razem	[osoba]	temat=P2205
+56313	poziom=5	ludność w mieszkaniach zamieszkanych stale | CO zbiorowe	[osoba]	temat=P2205
+56299	poziom=5	ludność w mieszkaniach zamieszkanych stale | CO indywidualne razem	[osoba]	temat=P2205
+56340	poziom=5	ludność w mieszkaniach zamieszkanych stale | CO indywidualne źródło energii paliwa stałe	[osoba]	temat=P2205
+56316	poziom=5	ludność w mieszkaniach zamieszkanych stale | CO indywidualne źródło energii energia elektryczna	[osoba]	temat=P2205
+56311	poziom=5	ludność w mieszkaniach zamieszkanych stale | CO indywidualne źródło energii paliwa gazowe	[osoba]	temat=P2205
+56306	poziom=5	ludność w mieszkaniach zamieszkanych stale | piece razem	[osoba]	temat=P2205
+56333	poziom=5	ludność w mieszkaniach zamieszkanych stale | piece źródło energii paliwa stałe	[osoba]	temat=P2205
+56310	poziom=5	ludność w mieszkaniach zamieszkanych stale | piece źródło energii energia elektryczna	[osoba]	temat=P2205
+56362	poziom=7	ludność | ogółem	[osoba]	temat=P2206
+56350	poziom=7	ludność | poniżej 0,50 osoby/izbę	[osoba]	temat=P2206
+56356	poziom=7	ludność | 0,50 - 0,99 osoby/izbę	[osoba]	temat=P2206
+56351	poziom=7	ludność | 1,00 osoby/izbę	[osoba]	temat=P2206
+56355	poziom=7	ludność | 1,01 - 1,49 osoby/izbę	[osoba]	temat=P2206
+56352	poziom=7	ludność | 1,50 - 1,99 osoby/izbę	[osoba]	temat=P2206
+56361	poziom=7	ludność | 2,00 - 2,99 osoby/izbę	[osoba]	temat=P2206
+56353	poziom=7	ludność | 3,00 i więcej osoby/izbę	[osoba]	temat=P2206
+56377	poziom=7	ludność | ogółem	[osoba]	temat=P2207
+56374	poziom=7	ludność | poniżej 7,0 m2/osobę	[osoba]	temat=P2207
+56368	poziom=7	ludność | 7,0 - 9,9 m2/osobę	[osoba]	temat=P2207
+56369	poziom=7	ludność | 10,0 - 14,9 m2/osobę	[osoba]	temat=P2207
+56367	poziom=7	ludność | 15,0 - 19,9 m2/osobę	[osoba]	temat=P2207
+56366	poziom=7	ludność | 20,0 - 29,9 m2/osobę	[osoba]	temat=P2207
+56370	poziom=7	ludność | 30,0 i więcej m2/osobę	[osoba]	temat=P2207
+56922	poziom=7	ludność | ogółem	[osoba]	temat=P2208
+56926	poziom=7	ludność | 1 izba	[osoba]	temat=P2208
+56916	poziom=7	ludność | 2 izby	[osoba]	temat=P2208
+56918	poziom=7	ludność | 3 izby	[osoba]	temat=P2208
+56928	poziom=7	ludność | 4 izby	[osoba]	temat=P2208
+56929	poziom=7	ludność | 5 izb i więcej	[osoba]	temat=P2208
+56409	poziom=5	ludność | 1 gospodarstwo domowe razem	[osoba]	temat=P2209
+56400	poziom=5	ludność | 1 gospodarstwo domowe jednoosobowe	[osoba]	temat=P2209
+56401	poziom=5	ludność | 1 gospodarstwo domowe wieloosobowe	[osoba]	temat=P2209
+56417	poziom=5	ludność | 2 gospodarstwa domowe razem	[osoba]	temat=P2209
+56397	poziom=5	ludność | 2 gospodarstwa domowe oba jednoosobowe	[osoba]	temat=P2209
+56399	poziom=5	ludność | 2 gospodarstwa domowe jedno z nich wieloosobowe	[osoba]	temat=P2209
+56415	poziom=5	ludność | 2 gospodarstwa domowe oba wieloosobowe	[osoba]	temat=P2209
+56403	poziom=5	ludność | 3 i więcej gospodarstw domowych	[osoba]	temat=P2209
+56436	poziom=7	ludność | ogółem	[osoba]	temat=P2210
+56427	poziom=7	ludność | 1 gospodarstwo domowe razem	[osoba]	temat=P2210
+56424	poziom=7	ludność | 1 gospodarstwo domowe jednorodzinne	[osoba]	temat=P2210
+56432	poziom=7	ludność | 1 gospodarstwo domowe dwu i więcej rodzinne	[osoba]	temat=P2210
+56446	poziom=7	ludność | 1 gospodarstwo domowe nierodzinne	[osoba]	temat=P2210
+56431	poziom=7	ludność | 2 gospodarstwa domowe razem	[osoba]	temat=P2210
+56428	poziom=7	ludność | 2 gospodarstwa domowe oba rodzinne	[osoba]	temat=P2210
+56444	poziom=7	ludność | 2 gospodarstwa domowe rodzinne i nierodzinne	[osoba]	temat=P2210
+56440	poziom=7	ludność | 3 i więcej gospodarstw domowych	[osoba]	temat=P2210
+56474	poziom=7	budynki ogółem | ludność w mieszkaniach	[osoba]	temat=P2213
+56468	poziom=7	budynki mieszkalne | ludność w mieszkaniach	[osoba]	temat=P2213
+56484	poziom=5	ludność w mieszkaniach | 	[osoba]	temat=P2214
+56511	poziom=5	ogółem | ludność w mieszkaniach	[osoba]	temat=P2215
+56492	poziom=5	osób fizycznych | ludność w mieszkaniach	[osoba]	temat=P2215
+56508	poziom=5	gminy | ludność w mieszkaniach	[osoba]	temat=P2215
+56509	poziom=5	pozostałych podmiotów | ludność w mieszkaniach	[osoba]	temat=P2215
+56506	poziom=5	wspólna | ludność w mieszkaniach	[osoba]	temat=P2215
+55885	poziom=7	ludność w mieszkaniach zamieszkanych stale | ogółem	[osoba]	temat=P2218
+55888	poziom=7	ludność w mieszkaniach zamieszkanych stale | łazienka	[osoba]	temat=P2218
+55892	poziom=7	ludność w mieszkaniach zamieszkanych stale | ciepła woda bieżąca	[osoba]	temat=P2218
+55890	poziom=7	ludność w mieszkaniach zamieszkanych stale | gaz z sieci	[osoba]	temat=P2218
+55889	poziom=7	ludność w mieszkaniach zamieszkanych stale | gaz z butli	[osoba]	temat=P2218
+55370	poziom=7	ludność w mieszkaniach zamieszkanych stale | 	[osoba]	temat=P2224
+55380	poziom=7	ludność w mieszkaniach zamieszkanych stale | ogółem	[osoba]	temat=P2225
+55386	poziom=7	ludność w mieszkaniach zamieszkanych stale | osób fizycznych	[osoba]	temat=P2225
+55375	poziom=7	ludność w mieszkaniach zamieszkanych stale | gminy	[osoba]	temat=P2225
+56571	poziom=7	ludność w mieszkaniach | ogółem	[osoba]	temat=P2229
+56578	poziom=7	ludność w mieszkaniach | wodociąg	[osoba]	temat=P2229
+56579	poziom=7	ludność w mieszkaniach | kanalizacja	[osoba]	temat=P2229
+56583	poziom=7	ludność w mieszkaniach | gaz z sieci	[osoba]	temat=P2229
+56577	poziom=7	ludność w mieszkaniach | centralne ogrzewanie	[osoba]	temat=P2229
+56744	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P2230
+56688	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P2230
+56607	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P2230
+56656	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P2230
+56706	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P2230
+56659	poziom=5	ludność w mieszkaniach | przed 1918	[osoba]	temat=P2230
+56619	poziom=5	ludność w mieszkaniach | przed 1918	[osoba]	temat=P2230
+56667	poziom=5	ludność w mieszkaniach | przed 1918	[osoba]	temat=P2230
+56637	poziom=5	ludność w mieszkaniach | przed 1918	[osoba]	temat=P2230
+56739	poziom=5	ludność w mieszkaniach | przed 1918	[osoba]	temat=P2230
+56664	poziom=5	ludność w mieszkaniach | 1918-1944	[osoba]	temat=P2230
+56610	poziom=5	ludność w mieszkaniach | 1918-1944	[osoba]	temat=P2230
+56730	poziom=5	ludność w mieszkaniach | 1918-1944	[osoba]	temat=P2230
+56601	poziom=5	ludność w mieszkaniach | 1918-1944	[osoba]	temat=P2230
+56651	poziom=5	ludność w mieszkaniach | 1918-1944	[osoba]	temat=P2230
+56672	poziom=5	ludność w mieszkaniach | 1945-1970	[osoba]	temat=P2230
+56627	poziom=5	ludność w mieszkaniach | 1945-1970	[osoba]	temat=P2230
+56741	poziom=5	ludność w mieszkaniach | 1945-1970	[osoba]	temat=P2230
+56745	poziom=5	ludność w mieszkaniach | 1945-1970	[osoba]	temat=P2230
+56657	poziom=5	ludność w mieszkaniach | 1945-1970	[osoba]	temat=P2230
+56611	poziom=5	ludność w mieszkaniach | 1971-1978	[osoba]	temat=P2230
+56617	poziom=5	ludność w mieszkaniach | 1971-1978	[osoba]	temat=P2230
+56665	poziom=5	ludność w mieszkaniach | 1971-1978	[osoba]	temat=P2230
+56623	poziom=5	ludność w mieszkaniach | 1971-1978	[osoba]	temat=P2230
+56641	poziom=5	ludność w mieszkaniach | 1971-1978	[osoba]	temat=P2230
+56642	poziom=5	ludność w mieszkaniach | 1979-1988	[osoba]	temat=P2230
+56736	poziom=5	ludność w mieszkaniach | 1979-1988	[osoba]	temat=P2230
+56649	poziom=5	ludność w mieszkaniach | 1979-1988	[osoba]	temat=P2230
+56669	poziom=5	ludność w mieszkaniach | 1979-1988	[osoba]	temat=P2230
+56621	poziom=5	ludność w mieszkaniach | 1979-1988	[osoba]	temat=P2230
+56699	poziom=5	ludność w mieszkaniach | 1989-2002 łącznie z będącymi w budowie	[osoba]	temat=P2230
+56726	poziom=5	ludność w mieszkaniach | 1989-2002 łącznie z będącymi w budowie	[osoba]	temat=P2230
+56724	poziom=5	ludność w mieszkaniach | 1989-2002 łącznie z będącymi w budowie	[osoba]	temat=P2230
+56654	poziom=5	ludność w mieszkaniach | 1989-2002 łącznie z będącymi w budowie	[osoba]	temat=P2230
+56614	poziom=5	ludność w mieszkaniach | 1989-2002 łącznie z będącymi w budowie	[osoba]	temat=P2230
+56743	poziom=5	ludność w mieszkaniach | 2001-2002 łącznie z będącymi w budowie	[osoba]	temat=P2230
+56713	poziom=5	ludność w mieszkaniach | 2001-2002 łącznie z będącymi w budowie	[osoba]	temat=P2230
+56732	poziom=5	ludność w mieszkaniach | 2001-2002 łącznie z będącymi w budowie	[osoba]	temat=P2230
+56670	poziom=5	ludność w mieszkaniach | 2001-2002 łącznie z będącymi w budowie	[osoba]	temat=P2230
+56718	poziom=5	ludność w mieszkaniach | 2001-2002 łącznie z będącymi w budowie	[osoba]	temat=P2230
+56818	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P2231
+56849	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P2231
+56795	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P2231
+56815	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P2231
+56817	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P2231
+56824	poziom=5	ludność w mieszkaniach | osób fizycznych	[osoba]	temat=P2231
+56803	poziom=5	ludność w mieszkaniach | osób fizycznych	[osoba]	temat=P2231
+56801	poziom=5	ludność w mieszkaniach | osób fizycznych	[osoba]	temat=P2231
+56842	poziom=5	ludność w mieszkaniach | osób fizycznych	[osoba]	temat=P2231
+56787	poziom=5	ludność w mieszkaniach | osób fizycznych	[osoba]	temat=P2231
+56781	poziom=5	ludność w mieszkaniach | gminy	[osoba]	temat=P2231
+56807	poziom=5	ludność w mieszkaniach | gminy	[osoba]	temat=P2231
+56758	poziom=5	ludność w mieszkaniach | gminy	[osoba]	temat=P2231
+56776	poziom=5	ludność w mieszkaniach | gminy	[osoba]	temat=P2231
+56786	poziom=5	ludność w mieszkaniach | gminy	[osoba]	temat=P2231
+56767	poziom=5	ludność w mieszkaniach | pozostałych podmiotów	[osoba]	temat=P2231
+56813	poziom=5	ludność w mieszkaniach | pozostałych podmiotów	[osoba]	temat=P2231
+56847	poziom=5	ludność w mieszkaniach | pozostałych podmiotów	[osoba]	temat=P2231
+56764	poziom=5	ludność w mieszkaniach | pozostałych podmiotów	[osoba]	temat=P2231
+56769	poziom=5	ludność w mieszkaniach | pozostałych podmiotów	[osoba]	temat=P2231
+56826	poziom=5	ludność w mieszkaniach | wspólna	[osoba]	temat=P2231
+56831	poziom=5	ludność w mieszkaniach | wspólna	[osoba]	temat=P2231
+56789	poziom=5	ludność w mieszkaniach | wspólna	[osoba]	temat=P2231
+56793	poziom=5	ludność w mieszkaniach | wspólna	[osoba]	temat=P2231
+56843	poziom=5	ludność w mieszkaniach | wspólna	[osoba]	temat=P2231
+56968	poziom=6	ludność w gospodarstwach | ogółem	[osoba]	temat=P2232
+56985	poziom=6	ludność w gospodarstwach | ogółem	[osoba]	temat=P2232
+56979	poziom=6	ludność w gospodarstwach | ogółem	[osoba]	temat=P2232
+56988	poziom=6	ludność w gospodarstwach | ogółem	[osoba]	temat=P2232
+56969	poziom=6	ludność w gospodarstwach | ogółem	[osoba]	temat=P2232
+56981	poziom=6	ludność w gospodarstwach | ogółem	[osoba]	temat=P2232
+56973	poziom=6	ludność w gospodarstwach | gospodarstwo mieszkające samodzielnie w mieszkaniu	[osoba]	temat=P2232
+56978	poziom=6	ludność w gospodarstwach | gospodarstwo mieszkające samodzielnie w mieszkaniu	[osoba]	temat=P2232
+56984	poziom=6	ludność w gospodarstwach | gospodarstwo mieszkające samodzielnie w mieszkaniu	[osoba]	temat=P2232
+56966	poziom=6	ludność w gospodarstwach | gospodarstwo mieszkające samodzielnie w mieszkaniu	[osoba]	temat=P2232
+56989	poziom=6	ludność w gospodarstwach | gospodarstwo mieszkające samodzielnie w mieszkaniu	[osoba]	temat=P2232
+56974	poziom=6	ludność w gospodarstwach | gospodarstwo mieszkające samodzielnie w mieszkaniu	[osoba]	temat=P2232
+56996	poziom=7	ludność | ogółem	[osoba]	temat=P2233
+56993	poziom=7	ludność | 1 gospodarstwo domowe	[osoba]	temat=P2233
+56997	poziom=7	ludność | 2 gospodarstwa domowe	[osoba]	temat=P2233
+58567	poziom=3	ludność w miastach | 	[tys. osób]	temat=P2291
+58570	poziom=3	ludność w miastach obsługiwanych przez zakłady komunikacji miejskiej | 	[tys. osób]	temat=P2291
+58566	poziom=3	ludność w miastach obsługiwanych przez zakłady komunikacji miejskiej  w % ogółu ludności miast | 	[%]	temat=P2291
+479086	poziom=3	ludność ogółem w wieku 15 lat i więcej (stan na 31 grudnia) | ogółem	[osoba]	temat=P2347
+479092	poziom=3	ludność ogółem w wieku 15 lat i więcej (stan na 31 grudnia) | mężczyźni	[osoba]	temat=P2347
+479098	poziom=3	ludność ogółem w wieku 15 lat i więcej (stan na 31 grudnia) | kobiety	[osoba]	temat=P2347
+478345	poziom=3	ludność ogółem w wieku 15 lat i więcej (stan na 31 grudnia) | ogółem	[osoba]	temat=P2348
+478333	poziom=3	ludność ogółem w wieku 15 lat i więcej (stan na 31 grudnia) | miasta	[osoba]	temat=P2348
+478339	poziom=3	ludność ogółem w wieku 15 lat i więcej (stan na 31 grudnia) | wieś	[osoba]	temat=P2348
+478388	poziom=3	ludność ogółem wg BAEL | 15-29	[tys. osób]	temat=P2349
+478364	poziom=3	ludność ogółem wg BAEL | 15-29	[%]	temat=P2349
+478370	poziom=3	ludność ogółem wg BAEL | 30-39	[tys. osób]	temat=P2349
+478346	poziom=3	ludność ogółem wg BAEL | 30-39	[%]	temat=P2349
+478376	poziom=3	ludność ogółem wg BAEL | 40-49	[tys. osób]	temat=P2349
+478352	poziom=3	ludność ogółem wg BAEL | 40-49	[%]	temat=P2349
+478382	poziom=3	ludność ogółem wg BAEL | 50 i więcej	[tys. osób]	temat=P2349
+478358	poziom=3	ludność ogółem wg BAEL | 50 i więcej	[%]	temat=P2349
+478447	poziom=3	ludność ogółem wg BAEL | wyższe	[tys. osób]	temat=P2350
+478417	poziom=3	ludność ogółem wg BAEL | wyższe	[%]	temat=P2350
+478453	poziom=3	ludność ogółem wg BAEL | policealne oraz średnie zawodowe/branżowe	[tys. osób]	temat=P2350
+478423	poziom=3	ludność ogółem wg BAEL | policealne oraz średnie zawodowe/branżowe	[%]	temat=P2350
+478399	poziom=3	ludność ogółem wg BAEL | średnie ogólnokształcące	[tys. osób]	temat=P2350
+478429	poziom=3	ludność ogółem wg BAEL | średnie ogólnokształcące	[%]	temat=P2350
+478405	poziom=3	ludność ogółem wg BAEL | zasadnicze zawodowe/branżowe	[tys. osób]	temat=P2350
+478435	poziom=3	ludność ogółem wg BAEL | zasadnicze zawodowe/branżowe	[%]	temat=P2350
+478411	poziom=3	ludność ogółem wg BAEL | gimnazjalne, podstawowe i niższe	[tys. osób]	temat=P2350
+478441	poziom=3	ludność ogółem wg BAEL | gimnazjalne, podstawowe i niższe	[%]	temat=P2350
+60190	poziom=6	ludność na 1 placówkę biblioteczną (łącznie z punktami bibliotecznymi ujętymi zgodnie z siedzibą jednostki macierzystej) | 	[osoba]	temat=P2381
+60193	poziom=3	ludność na 1 miejsce w teatrach i instytucjach muzycznych | 	[osoba]	temat=P2382
+60559	poziom=6	ludność na 1 km2 | 	[osoba]	temat=P2425
+1645341	poziom=6	ludność w tysiącach | 	[tys. osób]	temat=P2425
+1645344	poziom=6	ludność w tysiącach mężczyźni | 	[tys. osób]	temat=P2425
+1645343	poziom=6	ludność w tysiącach kobiety | 	[tys. osób]	temat=P2425
+60563	poziom=6	ludność w wieku nieprodukcyjnym na 100 osób w wieku produkcyjnym | 	[osoba]	temat=P2426
+60564	poziom=6	ludność w wieku poprodukcyjnym na 100 osób w wieku przedprodukcyjnym | 	[osoba]	temat=P2426
+60562	poziom=6	ludność w wieku poprodukcyjnym na 100 osób w wieku produkcyjnym | 	[osoba]	temat=P2426
+60570	poziom=3	ludność na 1 placówkę pocztową | 	[osoba]	temat=P2429
+450357	poziom=3	ludność na 1 placówkę operatora pocztowego | 	[osoba]	temat=P2429
+450356	poziom=3	ludność na 1 placówkę operatora wyznaczonego | 	[osoba]	temat=P2429
+60583	poziom=6	ludność na aptekę ogólnodostępną | 	[osoba]	temat=P2434
+77577	poziom=3	1 kwartał | ludność w wieku 15 lat i więcej	[tys. osób]	temat=P2567
+77493	poziom=3	1 kwartał | ludność w wieku 15 lat i więcej	[%]	temat=P2567
+77605	poziom=3	1 kwartał | ludność w wieku 15 lat i więcej	[tys. osób]	temat=P2567
+77521	poziom=3	1 kwartał | ludność w wieku 15 lat i więcej	[%]	temat=P2567
+77633	poziom=3	1 kwartał | ludność w wieku 15 lat i więcej	[tys. osób]	temat=P2567
+77549	poziom=3	1 kwartał | ludność w wieku 15 lat i więcej	[%]	temat=P2567
+77578	poziom=3	2 kwartał | ludność w wieku 15 lat i więcej	[tys. osób]	temat=P2567
+77494	poziom=3	2 kwartał | ludność w wieku 15 lat i więcej	[%]	temat=P2567
+77606	poziom=3	2 kwartał | ludność w wieku 15 lat i więcej	[tys. osób]	temat=P2567
+77522	poziom=3	2 kwartał | ludność w wieku 15 lat i więcej	[%]	temat=P2567
+77634	poziom=3	2 kwartał | ludność w wieku 15 lat i więcej	[tys. osób]	temat=P2567
+77550	poziom=3	2 kwartał | ludność w wieku 15 lat i więcej	[%]	temat=P2567
+77579	poziom=3	3 kwartał | ludność w wieku 15 lat i więcej	[tys. osób]	temat=P2567
+77495	poziom=3	3 kwartał | ludność w wieku 15 lat i więcej	[%]	temat=P2567
+77607	poziom=3	3 kwartał | ludność w wieku 15 lat i więcej	[tys. osób]	temat=P2567
+77523	poziom=3	3 kwartał | ludność w wieku 15 lat i więcej	[%]	temat=P2567
+77635	poziom=3	3 kwartał | ludność w wieku 15 lat i więcej	[tys. osób]	temat=P2567
+77551	poziom=3	3 kwartał | ludność w wieku 15 lat i więcej	[%]	temat=P2567
+77580	poziom=3	4 kwartał | ludność w wieku 15 lat i więcej	[tys. osób]	temat=P2567
+77496	poziom=3	4 kwartał | ludność w wieku 15 lat i więcej	[%]	temat=P2567
+77608	poziom=3	4 kwartał | ludność w wieku 15 lat i więcej	[tys. osób]	temat=P2567
+77524	poziom=3	4 kwartał | ludność w wieku 15 lat i więcej	[%]	temat=P2567
+77636	poziom=3	4 kwartał | ludność w wieku 15 lat i więcej	[tys. osób]	temat=P2567
+77552	poziom=3	4 kwartał | ludność w wieku 15 lat i więcej	[%]	temat=P2567
+194840	poziom=7	ludność w gospodarstwach | ogółem	[osoba]	temat=P2871
+194838	poziom=7	ludność w gospodarstwach | 1 osoba	[osoba]	temat=P2871
+194836	poziom=7	ludność w gospodarstwach | 2 osoby	[osoba]	temat=P2871
+194834	poziom=7	ludność w gospodarstwach | 3 osoby	[osoba]	temat=P2871
+194832	poziom=7	ludność w gospodarstwach | 4 osoby	[osoba]	temat=P2871
+194830	poziom=7	ludność w gospodarstwach | 5 osób i więcej	[osoba]	temat=P2871
+196164	poziom=7	ludność w mieszkaniach | ogółem	[osoba]	temat=P2888
+196162	poziom=7	ludność w mieszkaniach | przed 1918	[osoba]	temat=P2888
+196160	poziom=7	ludność w mieszkaniach | 1918-1944	[osoba]	temat=P2888
+196158	poziom=7	ludność w mieszkaniach | 1945-1970	[osoba]	temat=P2888
+196156	poziom=7	ludność w mieszkaniach | 1971-1978	[osoba]	temat=P2888
+196154	poziom=7	ludność w mieszkaniach | 1979-1988	[osoba]	temat=P2888
+399262	poziom=5	ludność w mieszkaniach zamieszkanych stale | 	[osoba]	temat=P3214
+397784	poziom=5	ludność w mieszkaniach zamieszkanych stale | ogółem	[osoba]	temat=P3324
+397829	poziom=5	ludność w mieszkaniach zamieszkanych stale | CO razem	[osoba]	temat=P3324
+397824	poziom=5	ludność w mieszkaniach zamieszkanych stale | CO zbiorowe	[osoba]	temat=P3324
+397819	poziom=5	ludność w mieszkaniach zamieszkanych stale | CO indywidualne razem	[osoba]	temat=P3324
+397814	poziom=5	ludność w mieszkaniach zamieszkanych stale | CO indywidualne źródło energii paliwa stałe	[osoba]	temat=P3324
+397809	poziom=5	ludność w mieszkaniach zamieszkanych stale | CO indywidualne źródło energii energia elektryczna	[osoba]	temat=P3324
+397804	poziom=5	ludność w mieszkaniach zamieszkanych stale | CO indywidualne źródło energii paliwa gazowe	[osoba]	temat=P3324
+397799	poziom=5	ludność w mieszkaniach zamieszkanych stale | piece razem	[osoba]	temat=P3324
+397794	poziom=5	ludność w mieszkaniach zamieszkanych stale | piece źródło energii paliwa stałe	[osoba]	temat=P3324
+397789	poziom=5	ludność w mieszkaniach zamieszkanych stale | piece źródło energii energia elektryczna	[osoba]	temat=P3324
+398036	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P3325
+398016	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P3325
+397965	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P3325
+397985	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P3325
+398052	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P3325
+398032	poziom=5	ludność w mieszkaniach | osób fizycznych	[osoba]	temat=P3325
+398012	poziom=5	ludność w mieszkaniach | osób fizycznych	[osoba]	temat=P3325
+397961	poziom=5	ludność w mieszkaniach | osób fizycznych	[osoba]	temat=P3325
+397981	poziom=5	ludność w mieszkaniach | osób fizycznych	[osoba]	temat=P3325
+398048	poziom=5	ludność w mieszkaniach | osób fizycznych	[osoba]	temat=P3325
+398028	poziom=5	ludność w mieszkaniach | gminy	[osoba]	temat=P3325
+398008	poziom=5	ludność w mieszkaniach | gminy	[osoba]	temat=P3325
+397957	poziom=5	ludność w mieszkaniach | gminy	[osoba]	temat=P3325
+397977	poziom=5	ludność w mieszkaniach | gminy	[osoba]	temat=P3325
+398044	poziom=5	ludność w mieszkaniach | gminy	[osoba]	temat=P3325
+398024	poziom=5	ludność w mieszkaniach | pozostałych podmiotów (łącznie z nieustaloną własnością)	[osoba]	temat=P3325
+398004	poziom=5	ludność w mieszkaniach | pozostałych podmiotów (łącznie z nieustaloną własnością)	[osoba]	temat=P3325
+397953	poziom=5	ludność w mieszkaniach | pozostałych podmiotów (łącznie z nieustaloną własnością)	[osoba]	temat=P3325
+397973	poziom=5	ludność w mieszkaniach | pozostałych podmiotów (łącznie z nieustaloną własnością)	[osoba]	temat=P3325
+397993	poziom=5	ludność w mieszkaniach | pozostałych podmiotów (łącznie z nieustaloną własnością)	[osoba]	temat=P3325
+398020	poziom=5	ludność w mieszkaniach | wspólna	[osoba]	temat=P3325
+398000	poziom=5	ludność w mieszkaniach | wspólna	[osoba]	temat=P3325
+398040	poziom=5	ludność w mieszkaniach | wspólna	[osoba]	temat=P3325
+397969	poziom=5	ludność w mieszkaniach | wspólna	[osoba]	temat=P3325
+397989	poziom=5	ludność w mieszkaniach | wspólna	[osoba]	temat=P3325
+397848	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P3326
+397852	poziom=5	ludność w mieszkaniach | wodociąg	[osoba]	temat=P3326
+397844	poziom=5	ludność w mieszkaniach | kanalizacja	[osoba]	temat=P3326
+397840	poziom=5	ludność w mieszkaniach | gaz z sieci	[osoba]	temat=P3326
+397836	poziom=5	ludność w mieszkaniach | centralne ogrzewanie	[osoba]	temat=P3326
+398053	poziom=5	budynki ogółem | ludność w mieszkaniach	[osoba]	temat=P3327
+398054	poziom=5	budynki mieszkalne | ludność w mieszkaniach	[osoba]	temat=P3327
+398065	poziom=5	ogółem | ludność w mieszkaniach	[osoba]	temat=P3328
+398066	poziom=5	osób fizycznych | ludność w mieszkaniach	[osoba]	temat=P3328
+398067	poziom=5	gminy | ludność w mieszkaniach	[osoba]	temat=P3328
+398068	poziom=5	pozostałych podmiotów (łącznie z nieustaloną własnością) | ludność w mieszkaniach	[osoba]	temat=P3328
+398069	poziom=5	wspólna | ludność w mieszkaniach	[osoba]	temat=P3328
+398298	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P3330
+398442	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P3330
+398334	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P3330
+398370	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P3330
+398406	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P3330
+398294	poziom=5	ludność w mieszkaniach | przed 1918	[osoba]	temat=P3330
+398438	poziom=5	ludność w mieszkaniach | przed 1918	[osoba]	temat=P3330
+398330	poziom=5	ludność w mieszkaniach | przed 1918	[osoba]	temat=P3330
+398366	poziom=5	ludność w mieszkaniach | przed 1918	[osoba]	temat=P3330
+398402	poziom=5	ludność w mieszkaniach | przed 1918	[osoba]	temat=P3330
+398290	poziom=5	ludność w mieszkaniach | 1918-1944	[osoba]	temat=P3330
+398434	poziom=5	ludność w mieszkaniach | 1918-1944	[osoba]	temat=P3330
+398326	poziom=5	ludność w mieszkaniach | 1918-1944	[osoba]	temat=P3330
+398362	poziom=5	ludność w mieszkaniach | 1918-1944	[osoba]	temat=P3330
+398398	poziom=5	ludność w mieszkaniach | 1918-1944	[osoba]	temat=P3330
+398286	poziom=5	ludność w mieszkaniach | 1945-1970	[osoba]	temat=P3330
+398430	poziom=5	ludność w mieszkaniach | 1945-1970	[osoba]	temat=P3330
+398322	poziom=5	ludność w mieszkaniach | 1945-1970	[osoba]	temat=P3330
+398358	poziom=5	ludność w mieszkaniach | 1945-1970	[osoba]	temat=P3330
+398394	poziom=5	ludność w mieszkaniach | 1945-1970	[osoba]	temat=P3330
+398282	poziom=5	ludność w mieszkaniach | 1971-1978	[osoba]	temat=P3330
+398426	poziom=5	ludność w mieszkaniach | 1971-1978	[osoba]	temat=P3330
+398318	poziom=5	ludność w mieszkaniach | 1971-1978	[osoba]	temat=P3330
+398354	poziom=5	ludność w mieszkaniach | 1971-1978	[osoba]	temat=P3330
+398390	poziom=5	ludność w mieszkaniach | 1971-1978	[osoba]	temat=P3330
+398458	poziom=5	ludność w mieszkaniach | 1979-1988	[osoba]	temat=P3330
+398422	poziom=5	ludność w mieszkaniach | 1979-1988	[osoba]	temat=P3330
+398314	poziom=5	ludność w mieszkaniach | 1979-1988	[osoba]	temat=P3330
+398350	poziom=5	ludność w mieszkaniach | 1979-1988	[osoba]	temat=P3330
+398386	poziom=5	ludność w mieszkaniach | 1979-1988	[osoba]	temat=P3330
+398454	poziom=5	ludność w mieszkaniach | 1989-2002	[osoba]	temat=P3330
+398418	poziom=5	ludność w mieszkaniach | 1989-2002	[osoba]	temat=P3330
+398310	poziom=5	ludność w mieszkaniach | 1989-2002	[osoba]	temat=P3330
+398346	poziom=5	ludność w mieszkaniach | 1989-2002	[osoba]	temat=P3330
+398382	poziom=5	ludność w mieszkaniach | 1989-2002	[osoba]	temat=P3330
+398450	poziom=5	ludność w mieszkaniach | 2003-2007	[osoba]	temat=P3330
+398414	poziom=5	ludność w mieszkaniach | 2003-2007	[osoba]	temat=P3330
+398306	poziom=5	ludność w mieszkaniach | 2003-2007	[osoba]	temat=P3330
+398342	poziom=5	ludność w mieszkaniach | 2003-2007	[osoba]	temat=P3330
+398378	poziom=5	ludność w mieszkaniach | 2003-2007	[osoba]	temat=P3330
+398446	poziom=5	ludność w mieszkaniach | 2008-2011 (łącznie z budynkami będącymi w budowie)	[osoba]	temat=P3330
+398410	poziom=5	ludność w mieszkaniach | 2008-2011 (łącznie z budynkami będącymi w budowie)	[osoba]	temat=P3330
+398302	poziom=5	ludność w mieszkaniach | 2008-2011 (łącznie z budynkami będącymi w budowie)	[osoba]	temat=P3330
+398338	poziom=5	ludność w mieszkaniach | 2008-2011 (łącznie z budynkami będącymi w budowie)	[osoba]	temat=P3330
+398374	poziom=5	ludność w mieszkaniach | 2008-2011 (łącznie z budynkami będącymi w budowie)	[osoba]	temat=P3330
+398484	poziom=5	ludność w mieszkaniach zamieszkanych stale | ogółem	[osoba]	temat=P3331
+398481	poziom=5	ludność w mieszkaniach zamieszkanych stale | wodociąg razem	[osoba]	temat=P3331
+398478	poziom=5	ludność w mieszkaniach zamieszkanych stale | wodociąg z sieci	[osoba]	temat=P3331
+398475	poziom=5	ludność w mieszkaniach zamieszkanych stale | wodociąg lokalny	[osoba]	temat=P3331
+398463	poziom=5	ludność w mieszkaniach zamieszkanych stale | bez wodociągu	[osoba]	temat=P3331
+398472	poziom=5	ludność w mieszkaniach zamieszkanych stale | ustęp spłukiwany razem	[osoba]	temat=P3331
+398469	poziom=5	ludność w mieszkaniach zamieszkanych stale | ustęp spłukiwany z odprowadzeniem do sieci	[osoba]	temat=P3331
+398466	poziom=5	ludność w mieszkaniach zamieszkanych stale | ustęp spłukiwany z odprowadzeniem do urządzenia lokalnego	[osoba]	temat=P3331
+398632	poziom=5	ludność w mieszkaniach zamieszkanych stale | ogółem	[osoba]	temat=P3335
+398629	poziom=5	ludność w mieszkaniach zamieszkanych stale | łazienka	[osoba]	temat=P3335
+398626	poziom=5	ludność w mieszkaniach zamieszkanych stale | ciepła woda bieżąca	[osoba]	temat=P3335
+398623	poziom=5	ludność w mieszkaniach zamieszkanych stale | gaz z sieci	[osoba]	temat=P3335
+398620	poziom=5	ludność w mieszkaniach zamieszkanych stale | gaz z butli	[osoba]	temat=P3335
+399278	poziom=5	ogółem | ludność w mieszkaniach zamieszkanych stale	[osoba]	temat=P3351
+399279	poziom=5	osób fizycznych | ludność w mieszkaniach zamieszkanych stale	[osoba]	temat=P3351
+399280	poziom=5	gminy | ludność w mieszkaniach zamieszkanych stale	[osoba]	temat=P3351
+399422	poziom=5	ogółem | ludność w mieszkaniach zamieszkanych stale	[osoba]	temat=P3352
+399423	poziom=5	przed 1918 | ludność w mieszkaniach zamieszkanych stale	[osoba]	temat=P3352
+399424	poziom=5	1918-1944 | ludność w mieszkaniach zamieszkanych stale	[osoba]	temat=P3352
+399425	poziom=5	1945-1970 | ludność w mieszkaniach zamieszkanych stale	[osoba]	temat=P3352
+399426	poziom=5	1971-1978 | ludność w mieszkaniach zamieszkanych stale	[osoba]	temat=P3352
+399427	poziom=5	1979-1988 | ludność w mieszkaniach zamieszkanych stale	[osoba]	temat=P3352
+399428	poziom=5	1989-2002 | ludność w mieszkaniach zamieszkanych stale	[osoba]	temat=P3352
+399429	poziom=5	2003-2007 | ludność w mieszkaniach zamieszkanych stale	[osoba]	temat=P3352
+399430	poziom=5	2008-2011 (łącznie z budynkami będącymi w budowie) | ludność w mieszkaniach zamieszkanych stale	[osoba]	temat=P3352
+399557	poziom=5	ogółem | ogółem	[osoba]	temat=P3353
+399585	poziom=5	ogółem | osób fizycznych	[osoba]	temat=P3353
+399576	poziom=5	ogółem | gminy	[osoba]	temat=P3353
+399594	poziom=5	przed 1918 | ogółem	[osoba]	temat=P3353
+399586	poziom=5	przed 1918 | osób fizycznych	[osoba]	temat=P3353
+399577	poziom=5	przed 1918 | gminy	[osoba]	temat=P3353
+399598	poziom=5	1918-1944 | ogółem	[osoba]	temat=P3353
+399587	poziom=5	1918-1944 | osób fizycznych	[osoba]	temat=P3353
+399578	poziom=5	1918-1944 | gminy	[osoba]	temat=P3353
+399599	poziom=5	1945-1970 | ogółem	[osoba]	temat=P3353
+399588	poziom=5	1945-1970 | osób fizycznych	[osoba]	temat=P3353
+399579	poziom=5	1945-1970 | gminy	[osoba]	temat=P3353
+399595	poziom=5	1971-1978 | ogółem	[osoba]	temat=P3353
+399589	poziom=5	1971-1978 | osób fizycznych	[osoba]	temat=P3353
+399580	poziom=5	1971-1978 | gminy	[osoba]	temat=P3353
+399596	poziom=5	1979-1988 | ogółem	[osoba]	temat=P3353
+399590	poziom=5	1979-1988 | osób fizycznych	[osoba]	temat=P3353
+399581	poziom=5	1979-1988 | gminy	[osoba]	temat=P3353
+399597	poziom=5	1989-2002 | ogółem	[osoba]	temat=P3353
+399591	poziom=5	1989-2002 | osób fizycznych	[osoba]	temat=P3353
+399582	poziom=5	1989-2002 | gminy	[osoba]	temat=P3353
+399600	poziom=5	2003-2007 | ogółem	[osoba]	temat=P3353
+399592	poziom=5	2003-2007 | osób fizycznych	[osoba]	temat=P3353
+399583	poziom=5	2003-2007 | gminy	[osoba]	temat=P3353
+399601	poziom=5	2008-2011 (łącznie z budynkami będącymi w budowie) | ogółem	[osoba]	temat=P3353
+399593	poziom=5	2008-2011 (łącznie z budynkami będącymi w budowie) | osób fizycznych	[osoba]	temat=P3353
+399584	poziom=5	2008-2011 (łącznie z budynkami będącymi w budowie) | gminy	[osoba]	temat=P3353
+399407	poziom=5	ludność | ogółem	[osoba]	temat=P3354
+399405	poziom=5	ludność | poniżej 0,50 osoby/izbę	[osoba]	temat=P3354
+399403	poziom=5	ludność | 0,50 - 0,99 osoby/izbę	[osoba]	temat=P3354
+399401	poziom=5	ludność | 1,00 osoby/izbę	[osoba]	temat=P3354
+399399	poziom=5	ludność | 1,01 - 1,49 osoby/izbę	[osoba]	temat=P3354
+399397	poziom=5	ludność | 1,50 - 1,99 osoby/izbę	[osoba]	temat=P3354
+399395	poziom=5	ludność | 2,00 - 2,99 osoby/izbę	[osoba]	temat=P3354
+399393	poziom=5	ludność | 3,00 i więcej osoby/izbę	[osoba]	temat=P3354
+399421	poziom=5	ludność | ogółem	[-]	temat=P3355
+399419	poziom=5	ludność | poniżej 7,0 m2/osobę	[-]	temat=P3355
+399417	poziom=5	ludność | 7,0 - 9,9 m2/osobę	[-]	temat=P3355
+399415	poziom=5	ludność | 10,0 - 14,9 m2/osobę	[-]	temat=P3355
+399413	poziom=5	ludność | 15,0 - 19,9 m2/osobę	[-]	temat=P3355
+399411	poziom=5	ludność | 20,0 - 29,9 m2/osobę	[-]	temat=P3355
+399409	poziom=5	ludność | 30,0 i więcej m2/osobę	[-]	temat=P3355
+450478	poziom=5	ludność w gospodarstwach domowych | wartość liczbowa	[osoba]	temat=P3420
+450470	poziom=5	ludność w gospodarstwach domowych | wskaźnik precyzji	[%]	temat=P3420
+1614329	poziom=3	1 kwartał | ludność w wieku 15-89 lat	[tys. osób]	temat=P3969
+1614330	poziom=3	1 kwartał | ludność w wieku 15-89 lat	[%]	temat=P3969
+1614331	poziom=3	1 kwartał | ludność w wieku 15-89 lat	[tys. osób]	temat=P3969
+1614332	poziom=3	1 kwartał | ludność w wieku 15-89 lat	[%]	temat=P3969
+1614333	poziom=3	1 kwartał | ludność w wieku 15-89 lat	[tys. osób]	temat=P3969
+1614334	poziom=3	1 kwartał | ludność w wieku 15-89 lat	[%]	temat=P3969
+1614377	poziom=3	2 kwartał | ludność w wieku 15-89 lat	[tys. osób]	temat=P3969
+1614378	poziom=3	2 kwartał | ludność w wieku 15-89 lat	[%]	temat=P3969
+1614379	poziom=3	2 kwartał | ludność w wieku 15-89 lat	[tys. osób]	temat=P3969
+1614380	poziom=3	2 kwartał | ludność w wieku 15-89 lat	[%]	temat=P3969
+1614381	poziom=3	2 kwartał | ludność w wieku 15-89 lat	[tys. osób]	temat=P3969
+1614382	poziom=3	2 kwartał | ludność w wieku 15-89 lat	[%]	temat=P3969
+1614425	poziom=3	3 kwartał | ludność w wieku 15-89 lat	[tys. osób]	temat=P3969
+1614426	poziom=3	3 kwartał | ludność w wieku 15-89 lat	[%]	temat=P3969
+1614427	poziom=3	3 kwartał | ludność w wieku 15-89 lat	[tys. osób]	temat=P3969
+1614428	poziom=3	3 kwartał | ludność w wieku 15-89 lat	[%]	temat=P3969
+1614429	poziom=3	3 kwartał | ludność w wieku 15-89 lat	[tys. osób]	temat=P3969
+1614430	poziom=3	3 kwartał | ludność w wieku 15-89 lat	[%]	temat=P3969
+1614473	poziom=3	4 kwartał | ludność w wieku 15-89 lat	[tys. osób]	temat=P3969
+1614474	poziom=3	4 kwartał | ludność w wieku 15-89 lat	[%]	temat=P3969
+1614475	poziom=3	4 kwartał | ludność w wieku 15-89 lat	[tys. osób]	temat=P3969
+1614476	poziom=3	4 kwartał | ludność w wieku 15-89 lat	[%]	temat=P3969
+1614477	poziom=3	4 kwartał | ludność w wieku 15-89 lat	[tys. osób]	temat=P3969
+1614478	poziom=3	4 kwartał | ludność w wieku 15-89 lat	[%]	temat=P3969
+1648042	poziom=3	ludność ogółem wg BAEL w tysiącach | ogółem	[tys. osób]	temat=P4089
+1648043	poziom=3	ludność ogółem wg BAEL w tysiącach | ogółem	[%]	temat=P4089
+1648044	poziom=3	ludność ogółem wg BAEL w tysiącach | mężczyźni	[tys. osób]	temat=P4089
+1648045	poziom=3	ludność ogółem wg BAEL w tysiącach | mężczyźni	[%]	temat=P4089
+1648046	poziom=3	ludność ogółem wg BAEL w tysiącach | kobiety	[tys. osób]	temat=P4089
+1648047	poziom=3	ludność ogółem wg BAEL w tysiącach | kobiety	[%]	temat=P4089
+1632976	poziom=3	ludność ogółem wg BAEL | 15-29	[tys. osób]	temat=P4090
+1632977	poziom=3	ludność ogółem wg BAEL | 15-29	[%]	temat=P4090
+1632978	poziom=3	ludność ogółem wg BAEL | 30-39	[tys. osób]	temat=P4090
+1632979	poziom=3	ludność ogółem wg BAEL | 30-39	[%]	temat=P4090
+1632980	poziom=3	ludność ogółem wg BAEL | 40-49	[tys. osób]	temat=P4090
+1632981	poziom=3	ludność ogółem wg BAEL | 40-49	[%]	temat=P4090
+1632982	poziom=3	ludność ogółem wg BAEL | 50-89	[tys. osób]	temat=P4090
+1632983	poziom=3	ludność ogółem wg BAEL | 50-89	[%]	temat=P4090
+1648063	poziom=3	ludność ogółem wg BAEL w tysiącach | ogółem	[tys. osób]	temat=P4091
+1648064	poziom=3	ludność ogółem wg BAEL w tysiącach | ogółem	[%]	temat=P4091
+1648065	poziom=3	ludność ogółem wg BAEL w tysiącach | miasta	[tys. osób]	temat=P4091
+1648066	poziom=3	ludność ogółem wg BAEL w tysiącach | miasta	[%]	temat=P4091
+1648067	poziom=3	ludność ogółem wg BAEL w tysiącach | wieś	[tys. osób]	temat=P4091
+1648068	poziom=3	ludność ogółem wg BAEL w tysiącach | wieś	[%]	temat=P4091
+1632385	poziom=3	ludność ogółem wg BAEL | wyższe	[tys. osób]	temat=P4092
+1632386	poziom=3	ludność ogółem wg BAEL | wyższe	[%]	temat=P4092
+1632387	poziom=3	ludność ogółem wg BAEL | policealne oraz średnie zawodowe/branżowe	[tys. osób]	temat=P4092
+1632388	poziom=3	ludność ogółem wg BAEL | policealne oraz średnie zawodowe/branżowe	[%]	temat=P4092
+1632389	poziom=3	ludność ogółem wg BAEL | średnie ogólnokształcące	[tys. osób]	temat=P4092
+1632390	poziom=3	ludność ogółem wg BAEL | średnie ogólnokształcące	[%]	temat=P4092
+1632391	poziom=3	ludność ogółem wg BAEL | zasadnicze zawodowe/branżowe	[tys. osób]	temat=P4092
+1632392	poziom=3	ludność ogółem wg BAEL | zasadnicze zawodowe/branżowe	[%]	temat=P4092
+1632393	poziom=3	ludność ogółem wg BAEL | gimnazjalne, podstawowe i niższe	[tys. osób]	temat=P4092
+1632394	poziom=3	ludność ogółem wg BAEL | gimnazjalne, podstawowe i niższe	[%]	temat=P4092
+1639116	poziom=6	gminy, które prowadziły działania rewitalizacyjne na podstawie GPR lub PR | ludność gminy ogółem w momencie uchwalenia programu rewitalizacji	[osoba]	temat=P4173
+1639117	poziom=6	gminy, które prowadziły działania rewitalizacyjne na podstawie GPR lub PR | ludność gminy zamieszkująca obszar rewitalizacji w momencie uchwalenia programu rewitalizacji	[osoba]	temat=P4173
+1639126	poziom=6	gminy, które prowadziły działania rewitalizacyjne na podstawie GPR | ludność gminy ogółem w momencie uchwalenia programu rewitalizacji	[osoba]	temat=P4173
+1751667	poziom=6	gminy, które prowadziły działania rewitalizacyjne na podstawie GPR | ludność gminy ogółem w momencie wyznaczenia obszaru rewitalizacji	[osoba]	temat=P4173
+1639127	poziom=6	gminy, które prowadziły działania rewitalizacyjne na podstawie GPR | ludność gminy zamieszkująca obszar rewitalizacji w momencie uchwalenia programu rewitalizacji	[osoba]	temat=P4173
+1751668	poziom=6	gminy, które prowadziły działania rewitalizacyjne na podstawie GPR | ludność gminy zamieszkująca obszar rewitalizacji w momencie wyznaczenia obszaru rewitalizacji	[osoba]	temat=P4173
+1639136	poziom=6	gminy, które prowadziły działania rewitalizacyjne na podstawie PR | ludność gminy ogółem w momencie uchwalenia programu rewitalizacji	[osoba]	temat=P4173
+1639137	poziom=6	gminy, które prowadziły działania rewitalizacyjne na podstawie PR | ludność gminy zamieszkująca obszar rewitalizacji w momencie uchwalenia programu rewitalizacji	[osoba]	temat=P4173
+1652555	poziom=6	ludność w gospodarstwach domowych | 	[osoba]	temat=P4287
+1722463	poziom=3	ludność przebywająca w obiektach zbiorowego zakwaterowania | ogółem	[osoba]	temat=P4360
+1722464	poziom=3	ludność przebywająca w obiektach zbiorowego zakwaterowania | nauka i praca	[osoba]	temat=P4360
+1722465	poziom=3	ludność przebywająca w obiektach zbiorowego zakwaterowania | system pieczy zastępczej oraz placówki dla dzieci i młodzieży ze specjalnymi potrzebami edukacyjnymi	[osoba]	temat=P4360
+1722466	poziom=3	ludność przebywająca w obiektach zbiorowego zakwaterowania | leczenie i opieka	[osoba]	temat=P4360
+1722467	poziom=3	ludność przebywająca w obiektach zbiorowego zakwaterowania | obiekty instytucji wyznaniowych	[osoba]	temat=P4360
+1722468	poziom=3	ludność przebywająca w obiektach zbiorowego zakwaterowania | tymczasowe schronienie	[osoba]	temat=P4360
+1722470	poziom=3	ludność przebywająca w obiektach zbiorowego zakwaterowania | mieszkania chronione	[osoba]	temat=P4360
+1722471	poziom=3	ludność przebywająca w obiektach zbiorowego zakwaterowania | pozostałe obiekty	[osoba]	temat=P4360
+1723487	poziom=6	ludność w mieszkaniach zamieszkanych | 	[osoba]	temat=P4383
+1723496	poziom=6	ludność | ogółem	[osoba]	temat=P4384
+1723497	poziom=6	ludność | poniżej 0,50 osoby/izbę	[osoba]	temat=P4384
+1723498	poziom=6	ludność | 0,50 - 0,99 osoby/izbę	[osoba]	temat=P4384
+1723499	poziom=6	ludność | 1,00 osoby/izbę	[osoba]	temat=P4384
+1723500	poziom=6	ludność | 1,01 - 1,49 osoby/izbę	[osoba]	temat=P4384
+1723501	poziom=6	ludność | 1,50 - 1,99 osoby/izbę	[osoba]	temat=P4384
+1723502	poziom=6	ludność | 2,00 - 2,99 osoby/izbę	[osoba]	temat=P4384
+1723503	poziom=6	ludność | 3,00 i więcej osoby/izbę	[osoba]	temat=P4384
+1723511	poziom=6	ludność | ogółem	[osoba]	temat=P4385
+1723512	poziom=6	ludność | poniżej 7,0 m2/osobę	[osoba]	temat=P4385
+1723513	poziom=6	ludność | 7,0 - 9,9 m2/osobę	[osoba]	temat=P4385
+1723514	poziom=6	ludność | 10,0 - 14,9 m2/osobę	[osoba]	temat=P4385
+1723515	poziom=6	ludność | 15,0 - 19,9 m2/osobę	[osoba]	temat=P4385
+1723516	poziom=6	ludność | 20,0 - 29,9 m2/osobę	[osoba]	temat=P4385
+1723517	poziom=6	ludność | 30,0 i więcej m2/osobę	[osoba]	temat=P4385
+1723520	poziom=6	ogółem | ludność w mieszkaniach zamieszkanych	[osoba]	temat=P4386
+1723523	poziom=6	przed 1918 | ludność w mieszkaniach zamieszkanych	[osoba]	temat=P4386
+1723526	poziom=6	1918-1944 | ludność w mieszkaniach zamieszkanych	[osoba]	temat=P4386
+1723529	poziom=6	1945-1970 | ludność w mieszkaniach zamieszkanych	[osoba]	temat=P4386
+1723532	poziom=6	1971-1978 | ludność w mieszkaniach zamieszkanych	[osoba]	temat=P4386
+1723535	poziom=6	1979-1988 | ludność w mieszkaniach zamieszkanych	[osoba]	temat=P4386
+1723538	poziom=6	1989-2002 | ludność w mieszkaniach zamieszkanych	[osoba]	temat=P4386
+1723541	poziom=6	2003-2011 | ludność w mieszkaniach zamieszkanych	[osoba]	temat=P4386
+1723544	poziom=6	2012-2016 | ludność w mieszkaniach zamieszkanych	[osoba]	temat=P4386
+1723547	poziom=6	2017-2021 (łącznie z budynkami będącymi w budowie) | ludność w mieszkaniach zamieszkanych	[osoba]	temat=P4386
+1723550	poziom=5	ogółem | ogółem	[osoba]	temat=P4387
+1723553	poziom=5	ogółem | osób fizycznych	[osoba]	temat=P4387
+1723556	poziom=5	ogółem | gminy	[osoba]	temat=P4387
+1723559	poziom=5	przed 1918 | ogółem	[osoba]	temat=P4387
+1723562	poziom=5	przed 1918 | osób fizycznych	[osoba]	temat=P4387
+1723565	poziom=5	przed 1918 | gminy	[osoba]	temat=P4387
+1723568	poziom=5	1918-1944 | ogółem	[osoba]	temat=P4387
+1723571	poziom=5	1918-1944 | osób fizycznych	[osoba]	temat=P4387
+1723574	poziom=5	1918-1944 | gminy	[osoba]	temat=P4387
+1723577	poziom=5	1945-1970 | ogółem	[osoba]	temat=P4387
+1723580	poziom=5	1945-1970 | osób fizycznych	[osoba]	temat=P4387
+1723583	poziom=5	1945-1970 | gminy	[osoba]	temat=P4387
+1723586	poziom=5	1971-1978 | ogółem	[osoba]	temat=P4387
+1723589	poziom=5	1971-1978 | osób fizycznych	[osoba]	temat=P4387
+1723592	poziom=5	1971-1978 | gminy	[osoba]	temat=P4387
+1723595	poziom=5	1979-1988 | ogółem	[osoba]	temat=P4387
+1723598	poziom=5	1979-1988 | osób fizycznych	[osoba]	temat=P4387
+1723601	poziom=5	1979-1988 | gminy	[osoba]	temat=P4387
+1723604	poziom=5	1989-2002 | ogółem	[osoba]	temat=P4387
+1723607	poziom=5	1989-2002 | osób fizycznych	[osoba]	temat=P4387
+1723610	poziom=5	1989-2002 | gminy	[osoba]	temat=P4387
+1723613	poziom=5	2003-2011 | ogółem	[osoba]	temat=P4387
+1723616	poziom=5	2003-2011 | osób fizycznych	[osoba]	temat=P4387
+1723619	poziom=5	2003-2011 | gminy	[osoba]	temat=P4387
+1723622	poziom=5	2012-2016 | ogółem	[osoba]	temat=P4387
+1723625	poziom=5	2012-2016 | osób fizycznych	[osoba]	temat=P4387
+1723628	poziom=5	2012-2016 | gminy	[osoba]	temat=P4387
+1723631	poziom=5	2017-2021 (łącznie z budynkami będącymi w budowie) | ogółem	[osoba]	temat=P4387
+1723634	poziom=5	2017-2021 (łącznie z budynkami będącymi w budowie) | osób fizycznych	[osoba]	temat=P4387
+1723637	poziom=5	2017-2021 (łącznie z budynkami będącymi w budowie) | gminy	[osoba]	temat=P4387
+1723640	poziom=6	ogółem | ludność w mieszkaniach zamieszkanych	[osoba]	temat=P4388
+1723643	poziom=6	osób fizycznych | ludność w mieszkaniach zamieszkanych	[osoba]	temat=P4388
+1723646	poziom=6	gminy | ludność w mieszkaniach zamieszkanych	[osoba]	temat=P4388
+1723663	poziom=5	ludność w mieszkaniach zamieszkanych | ogółem	[osoba]	temat=P4389
+1723664	poziom=5	ludność w mieszkaniach zamieszkanych | CO razem	[osoba]	temat=P4389
+1723665	poziom=5	ludność w mieszkaniach zamieszkanych | CO zbiorowe	[osoba]	temat=P4389
+1723666	poziom=5	ludność w mieszkaniach zamieszkanych | CO indywidualne razem	[osoba]	temat=P4389
+1723667	poziom=5	ludność w mieszkaniach zamieszkanych | CO indywidualne źródło energii paliwa stałe	[osoba]	temat=P4389
+1723668	poziom=5	ludność w mieszkaniach zamieszkanych | CO indywidualne źródło energii energia elektryczna	[osoba]	temat=P4389
+1723669	poziom=5	ludność w mieszkaniach zamieszkanych | CO indywidualne źródło energii paliwa gazowe	[osoba]	temat=P4389
+1723670	poziom=5	ludność w mieszkaniach zamieszkanych | bez centralnego ogrzewania	[osoba]	temat=P4389
+1723675	poziom=6	ludność w mieszkaniach zamieszkanych | ogółem	[osoba]	temat=P4390
+1723676	poziom=6	ludność w mieszkaniach zamieszkanych | łazienka	[osoba]	temat=P4390
+1723677	poziom=6	ludność w mieszkaniach zamieszkanych | woda bieżąca	[osoba]	temat=P4390
+1723678	poziom=6	ludność w mieszkaniach zamieszkanych | gaz z sieci	[osoba]	temat=P4390
+1723687	poziom=5	ludność w mieszkaniach zamieszkanych | ogółem	[osoba]	temat=P4391
+1723688	poziom=5	ludność w mieszkaniach zamieszkanych | wodociąg razem	[osoba]	temat=P4391
+1723689	poziom=5	ludność w mieszkaniach zamieszkanych | wodociąg z sieci	[osoba]	temat=P4391
+1723690	poziom=5	ludność w mieszkaniach zamieszkanych | wodociąg lokalny	[osoba]	temat=P4391
+1723691	poziom=5	ludność w mieszkaniach zamieszkanych | bez wodociągu	[osoba]	temat=P4391
+1723692	poziom=5	ludność w mieszkaniach zamieszkanych | ustęp spłukiwany razem	[osoba]	temat=P4391
+1723693	poziom=5	ludność w mieszkaniach zamieszkanych | ustęp spłukiwany z odprowadzeniem do sieci	[osoba]	temat=P4391
+1723694	poziom=5	ludność w mieszkaniach zamieszkanych | ustęp spłukiwany z odprowadzeniem do urządzenia lokalnego	[osoba]	temat=P4391
+1723933	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P4395
+1723934	poziom=5	ludność w mieszkaniach | ogółem	[-]	temat=P4395
+1723935	poziom=5	ludność w mieszkaniach | ogółem	[-]	temat=P4395
+1723936	poziom=5	ludność w mieszkaniach | ogółem	[-]	temat=P4395
+1723937	poziom=5	ludność w mieszkaniach | ogółem	[-]	temat=P4395
+1723938	poziom=5	ludność w mieszkaniach | przed 1918	[-]	temat=P4395
+1723939	poziom=5	ludność w mieszkaniach | przed 1918	[-]	temat=P4395
+1723940	poziom=5	ludność w mieszkaniach | przed 1918	[-]	temat=P4395
+1723941	poziom=5	ludność w mieszkaniach | przed 1918	[-]	temat=P4395
+1723942	poziom=5	ludność w mieszkaniach | przed 1918	[-]	temat=P4395
+1723943	poziom=5	ludność w mieszkaniach | 1918-1944	[-]	temat=P4395
+1723944	poziom=5	ludność w mieszkaniach | 1918-1944	[-]	temat=P4395
+1723945	poziom=5	ludność w mieszkaniach | 1918-1944	[-]	temat=P4395
+1723946	poziom=5	ludność w mieszkaniach | 1918-1944	[-]	temat=P4395
+1723947	poziom=5	ludność w mieszkaniach | 1918-1944	[-]	temat=P4395
+1723948	poziom=5	ludność w mieszkaniach | 1945-1970	[-]	temat=P4395
+1723949	poziom=5	ludność w mieszkaniach | 1945-1970	[-]	temat=P4395
+1723950	poziom=5	ludność w mieszkaniach | 1945-1970	[-]	temat=P4395
+1723951	poziom=5	ludność w mieszkaniach | 1945-1970	[-]	temat=P4395
+1723952	poziom=5	ludność w mieszkaniach | 1945-1970	[-]	temat=P4395
+1723953	poziom=5	ludność w mieszkaniach | 1971-1978	[-]	temat=P4395
+1723954	poziom=5	ludność w mieszkaniach | 1971-1978	[-]	temat=P4395
+1723955	poziom=5	ludność w mieszkaniach | 1971-1978	[-]	temat=P4395
+1723956	poziom=5	ludność w mieszkaniach | 1971-1978	[-]	temat=P4395
+1723957	poziom=5	ludność w mieszkaniach | 1971-1978	[-]	temat=P4395
+1723958	poziom=5	ludność w mieszkaniach | 1979-1988	[-]	temat=P4395
+1723959	poziom=5	ludność w mieszkaniach | 1979-1988	[-]	temat=P4395
+1723960	poziom=5	ludność w mieszkaniach | 1979-1988	[-]	temat=P4395
+1723961	poziom=5	ludność w mieszkaniach | 1979-1988	[-]	temat=P4395
+1723962	poziom=5	ludność w mieszkaniach | 1979-1988	[-]	temat=P4395
+1723963	poziom=5	ludność w mieszkaniach | 1989-2002	[-]	temat=P4395
+1723964	poziom=5	ludność w mieszkaniach | 1989-2002	[-]	temat=P4395
+1723965	poziom=5	ludność w mieszkaniach | 1989-2002	[-]	temat=P4395
+1723966	poziom=5	ludność w mieszkaniach | 1989-2002	[-]	temat=P4395
+1723967	poziom=5	ludność w mieszkaniach | 1989-2002	[-]	temat=P4395
+1723968	poziom=5	ludność w mieszkaniach | 2003-2011	[-]	temat=P4395
+1723969	poziom=5	ludność w mieszkaniach | 2003-2011	[-]	temat=P4395
+1723970	poziom=5	ludność w mieszkaniach | 2003-2011	[-]	temat=P4395
+1723971	poziom=5	ludność w mieszkaniach | 2003-2011	[-]	temat=P4395
+1723972	poziom=5	ludność w mieszkaniach | 2003-2011	[-]	temat=P4395
+1723973	poziom=5	ludność w mieszkaniach | 2012-2016	[-]	temat=P4395
+1723974	poziom=5	ludność w mieszkaniach | 2012-2016	[-]	temat=P4395
+1723975	poziom=5	ludność w mieszkaniach | 2012-2016	[-]	temat=P4395
+1723976	poziom=5	ludność w mieszkaniach | 2012-2016	[-]	temat=P4395
+1723977	poziom=5	ludność w mieszkaniach | 2012-2016	[-]	temat=P4395
+1723978	poziom=5	ludność w mieszkaniach | 2017-2021 (łącznie z budynkami będącymi w budowie)	[-]	temat=P4395
+1723979	poziom=5	ludność w mieszkaniach | 2017-2021 (łącznie z budynkami będącymi w budowie)	[-]	temat=P4395
+1723980	poziom=5	ludność w mieszkaniach | 2017-2021 (łącznie z budynkami będącymi w budowie)	[-]	temat=P4395
+1723981	poziom=5	ludność w mieszkaniach | 2017-2021 (łącznie z budynkami będącymi w budowie)	[-]	temat=P4395
+1723982	poziom=5	ludność w mieszkaniach | 2017-2021 (łącznie z budynkami będącymi w budowie)	[-]	temat=P4395
+1724013	poziom=5	ogółem | ludność w mieszkaniach	[osoba]	temat=P4397
+1724017	poziom=5	osób fizycznych | ludność w mieszkaniach	[osoba]	temat=P4397
+1724021	poziom=5	gminy | ludność w mieszkaniach	[osoba]	temat=P4397
+1724025	poziom=5	pozostałych podmiotów (łącznie z nieustaloną własnością) | ludność w mieszkaniach	[osoba]	temat=P4397
+1724029	poziom=5	wspólna | ludność w mieszkaniach	[osoba]	temat=P4397
+1724105	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P4398
+1724106	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P4398
+1724107	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P4398
+1724108	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P4398
+1724109	poziom=5	ludność w mieszkaniach | ogółem	[osoba]	temat=P4398
+1724110	poziom=5	ludność w mieszkaniach | osób fizycznych	[osoba]	temat=P4398
+1724111	poziom=5	ludność w mieszkaniach | osób fizycznych	[osoba]	temat=P4398
+1724112	poziom=5	ludność w mieszkaniach | osób fizycznych	[osoba]	temat=P4398
+1724113	poziom=5	ludność w mieszkaniach | osób fizycznych	[osoba]	temat=P4398
+1724114	poziom=5	ludność w mieszkaniach | osób fizycznych	[osoba]	temat=P4398
+1724115	poziom=5	ludność w mieszkaniach | gminy	[osoba]	temat=P4398
+1724116	poziom=5	ludność w mieszkaniach | gminy	[osoba]	temat=P4398
+1724117	poziom=5	ludność w mieszkaniach | gminy	[osoba]	temat=P4398
+1724118	poziom=5	ludność w mieszkaniach | gminy	[osoba]	temat=P4398
+1724119	poziom=5	ludność w mieszkaniach | gminy	[osoba]	temat=P4398
+1724120	poziom=5	ludność w mieszkaniach | pozostałych podmiotów (łącznie z nieustaloną własnością)	[osoba]	temat=P4398
+1724121	poziom=5	ludność w mieszkaniach | pozostałych podmiotów (łącznie z nieustaloną własnością)	[osoba]	temat=P4398
+1724122	poziom=5	ludność w mieszkaniach | pozostałych podmiotów (łącznie z nieustaloną własnością)	[osoba]	temat=P4398
+1724123	poziom=5	ludność w mieszkaniach | pozostałych podmiotów (łącznie z nieustaloną własnością)	[osoba]	temat=P4398
+1724124	poziom=5	ludność w mieszkaniach | pozostałych podmiotów (łącznie z nieustaloną własnością)	[osoba]	temat=P4398
+1724125	poziom=5	ludność w mieszkaniach | wspólna	[osoba]	temat=P4398
+1724126	poziom=5	ludność w mieszkaniach | wspólna	[osoba]	temat=P4398
+1724127	poziom=5	ludność w mieszkaniach | wspólna	[osoba]	temat=P4398
+1724128	poziom=5	ludność w mieszkaniach | wspólna	[osoba]	temat=P4398
+1724129	poziom=5	ludność w mieszkaniach | wspólna	[osoba]	temat=P4398
+1724145	poziom=6	ludność w mieszkaniach | ogółem	[osoba]	temat=P4399
+1724146	poziom=6	ludność w mieszkaniach | wodociąg	[osoba]	temat=P4399
+1724147	poziom=6	ludność w mieszkaniach | kanalizacja	[osoba]	temat=P4399
+1724148	poziom=6	ludność w mieszkaniach | gaz z sieci	[osoba]	temat=P4399
+1724149	poziom=6	ludność w mieszkaniach | centralne ogrzewanie	[osoba]	temat=P4399
+1724153	poziom=6	budynki ogółem | ludność w mieszkaniach	[osoba]	temat=P4400
+1724157	poziom=6	budynki mieszkalne | ludność w mieszkaniach	[osoba]	temat=P4400
+1725691	poziom=6	ludność przypadająca na jedną instytucję kultury -  centrum, dom, ośrodek kultury, klub i świetlicę | sektor publiczny ogółem	[osoba]	temat=P4418
+1725692	poziom=6	ludność przypadająca na jedną instytucję kultury -  centrum, dom, ośrodek kultury, klub i świetlicę | samorząd powiatowy	[osoba]	temat=P4418
+1725693	poziom=6	ludność przypadająca na jedną instytucję kultury -  centrum, dom, ośrodek kultury, klub i świetlicę | samorząd gminny	[osoba]	temat=P4418
+1727910	poziom=6	ludność w wieku uprawniającym do zasiłku rodzinnego (wiek: 0-23 lat - stan na 30 czerwca) | 	[osoba]	temat=P4446
+1727911	poziom=6	ludność w wieku produkcyjnym (stan na 30 czerwca) | 	[osoba]	temat=P4446

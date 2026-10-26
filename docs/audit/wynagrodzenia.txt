@@ -1,0 +1,561 @@
+101455	poziom=5	wydatki bieżące na wynagrodzenia | 	[zł]	temat=P1528
+101456	poziom=5	wydatki bieżące wynagrodzenia osobowe | 	[zł]	temat=P1528
+3554	poziom=5	wydatki bieżące jednostek budżetowych na wynagrodzenia | 	[zł]	temat=P1528
+3555	poziom=5	wydatki bieżące jednostek budżetowych na wynagrodzenia osobowe | 	[zł]	temat=P1528
+6974	poziom=5	wydatki bieżące jednostek budżetowych na wynagrodzenia | 	[zł]	temat=P1529
+101460	poziom=5	wydatki bieżące na wynagrodzenia | 	[zł]	temat=P1530
+7625	poziom=5	wydatki bieżące jednostek budżetowych na wynagrodzenia | 	[zł]	temat=P1530
+6979	poziom=5	wydatki bieżące jednostek budżetowych na wynagrodzenia | 	[zł]	temat=P1531
+101463	poziom=5	wydatki bieżące na wynagrodzenia | 	[zł]	temat=P1532
+7630	poziom=5	wydatki bieżące jednostek budżetowych na wynagrodzenia | 	[zł]	temat=P1532
+101466	poziom=5	wydatki bieżące na wynagrodzenia | 	[zł]	temat=P1534
+101470	poziom=5	wydatki bieżące na wynagrodzenia | 	[zł]	temat=P1535
+6990	poziom=5	wydatki bieżące jednostek budżetowych na wynagrodzenia | 	[zł]	temat=P1535
+101473	poziom=5	wydatki bieżące na wynagrodzenia | 	[zł]	temat=P1538
+101476	poziom=5	wydatki bieżące na wynagrodzenia | 	[zł]	temat=P1539
+7004	poziom=5	wydatki bieżące jednostek budżetowych na wynagrodzenia | 	[zł]	temat=P1539
+7012	poziom=5	wydatki bieżące jednostek budżetowych na wynagrodzenia | 	[zł]	temat=P1540
+101482	poziom=5	wydatki bieżące na wynagrodzenia | 	[zł]	temat=P1541
+101485	poziom=5	wydatki bieżące na wynagrodzenia | 	[zł]	temat=P1543
+7026	poziom=5	wydatki bieżące jednostek budżetowych na wynagrodzenia | 	[zł]	temat=P1544
+101488	poziom=5	wydatki bieżące na wynagrodzenia | 	[zł]	temat=P1545
+7647	poziom=5	wydatki bieżące jednostek budżetowych na wynagrodzenia | 	[zł]	temat=P1545
+7033	poziom=5	wydatki bieżące jednostek budżetowych na wynagrodzenia | 	[zł]	temat=P1546
+101491	poziom=5	wydatki bieżące na wynagrodzenia | 	[zł]	temat=P1547
+7654	poziom=5	wydatki bieżące jednostek budżetowych na wynagrodzenia | 	[zł]	temat=P1547
+6480	poziom=3	wynagrodzenia | 	[zł]	temat=P1572
+6481	poziom=3	wynagrodzenia osobowe | 	[zł]	temat=P1572
+101479	poziom=5	wydatki bieżące na wynagrodzenia | 	[zł]	temat=P2372
+59697	poziom=5	wydatki bieżące jednostek budżetowych na wynagrodzenia | 	[zł]	temat=P2372
+64429	poziom=5	przeciętne miesięczne wynagrodzenia brutto w relacji do średniej krajowej (Polska=100) | 	[%]	temat=P2497
+101373	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2633
+76459	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2633
+101371	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2633
+76457	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2633
+101372	poziom=6	miasta na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2633
+76458	poziom=6	miasta na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2633
+101362	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2634
+76504	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2634
+101360	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2634
+76502	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2634
+101361	poziom=6	miasta na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2634
+76503	poziom=6	miasta na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2634
+101346	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2635
+76559	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2635
+101344	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2635
+76561	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2635
+101345	poziom=6	miasta na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2635
+76560	poziom=6	miasta na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2635
+101334	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2636
+76604	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2636
+101332	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2636
+76606	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2636
+101333	poziom=6	miasta na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2636
+76605	poziom=6	miasta na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2636
+101322	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2637
+76635	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2637
+101320	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2637
+76637	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2637
+101321	poziom=6	miasta na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2637
+76636	poziom=6	miasta na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2637
+101310	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2638
+76709	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2638
+101308	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2638
+76711	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2638
+101309	poziom=6	miasta na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2638
+76710	poziom=6	miasta na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2638
+101298	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2639
+76798	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2639
+101296	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2639
+76822	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2639
+101297	poziom=6	miasta na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2639
+76799	poziom=6	miasta na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2639
+101286	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2640
+76835	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2640
+101284	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2640
+76837	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2640
+101285	poziom=6	miasta na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2640
+76836	poziom=6	miasta na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2640
+101274	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2641
+76898	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2641
+101272	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2641
+76900	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2641
+101273	poziom=6	miasta na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2641
+76899	poziom=6	miasta na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2641
+101264	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2642
+76915	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2642
+101262	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2642
+76917	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2642
+101263	poziom=6	miasta na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2642
+76916	poziom=6	miasta na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2642
+101250	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2643
+76938	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2643
+101248	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2643
+76940	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2643
+101249	poziom=6	miasta na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2643
+76939	poziom=6	miasta na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2643
+101232	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2665
+77291	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2665
+101230	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2665
+77289	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2665
+101231	poziom=6	miasta na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P2665
+77290	poziom=6	miasta na prawach powiatu | wydatki bieżące jednostek budżetowych na wynagrodzenia	[zł]	temat=P2665
+101444	poziom=3	wynagrodzenia | 	[zł]	temat=P2722
+101445	poziom=3	wynagrodzenia osobowe | 	[zł]	temat=P2722
+106480	poziom=3	płace i wynagrodzenia | ogółem	[tys. zł]	temat=P2751
+106476	poziom=3	płace i wynagrodzenia | Sekcja C	[tys. zł]	temat=P2751
+106548	poziom=3	płace i wynagrodzenia | Sekcja C Podsekcja CA	[tys. zł]	temat=P2751
+106472	poziom=3	płace i wynagrodzenia | Sekcja C dz. 10	[tys. zł]	temat=P2751
+106468	poziom=3	płace i wynagrodzenia | Sekcja C dz. 11	[tys. zł]	temat=P2751
+106467	poziom=3	płace i wynagrodzenia | Sekcja C dz. 12	[tys. zł]	temat=P2751
+106544	poziom=3	płace i wynagrodzenia | Sekcja C Podsekcja CB	[tys. zł]	temat=P2751
+106463	poziom=3	płace i wynagrodzenia | Sekcja C dz. 13	[tys. zł]	temat=P2751
+106459	poziom=3	płace i wynagrodzenia | Sekcja C dz. 14	[tys. zł]	temat=P2751
+106455	poziom=3	płace i wynagrodzenia | Sekcja D	[tys. zł]	temat=P2751
+106540	poziom=3	płace i wynagrodzenia | Sekcja D Podsekcja DA	[tys. zł]	temat=P2751
+106451	poziom=3	płace i wynagrodzenia | Sekcja D dz. 15	[tys. zł]	temat=P2751
+106447	poziom=3	płace i wynagrodzenia | Sekcja D dz. 16	[tys. zł]	temat=P2751
+106536	poziom=3	płace i wynagrodzenia | Sekcja D Podsekcja DB	[tys. zł]	temat=P2751
+106443	poziom=3	płace i wynagrodzenia | Sekcja D dz. 17	[tys. zł]	temat=P2751
+106439	poziom=3	płace i wynagrodzenia | Sekcja D dz. 18	[tys. zł]	temat=P2751
+106532	poziom=3	płace i wynagrodzenia | Sekcja D Podsekcja DC	[tys. zł]	temat=P2751
+106435	poziom=3	płace i wynagrodzenia | Sekcja D dz. 19	[tys. zł]	temat=P2751
+106528	poziom=3	płace i wynagrodzenia | Sekcja D Podsekcja DD	[tys. zł]	temat=P2751
+106431	poziom=3	płace i wynagrodzenia | Sekcja D dz. 20	[tys. zł]	temat=P2751
+106524	poziom=3	płace i wynagrodzenia | Sekcja D Podsekcja DE	[tys. zł]	temat=P2751
+106427	poziom=3	płace i wynagrodzenia | Sekcja D dz. 21	[tys. zł]	temat=P2751
+106423	poziom=3	płace i wynagrodzenia | Sekcja D dz. 22	[tys. zł]	temat=P2751
+106520	poziom=3	płace i wynagrodzenia | Sekcja D Podsekcja DF	[tys. zł]	temat=P2751
+106419	poziom=3	płace i wynagrodzenia | Sekcja D dz. 23	[tys. zł]	temat=P2751
+106516	poziom=3	płace i wynagrodzenia | Sekcja D Podsekcja DG	[tys. zł]	temat=P2751
+106415	poziom=3	płace i wynagrodzenia | Sekcja D dz. 24	[tys. zł]	temat=P2751
+106512	poziom=3	płace i wynagrodzenia | Sekcja D Podsekcja DH	[tys. zł]	temat=P2751
+106411	poziom=3	płace i wynagrodzenia | Sekcja D dz. 25	[tys. zł]	temat=P2751
+106508	poziom=3	płace i wynagrodzenia | Sekcja D Podsekcja DI	[tys. zł]	temat=P2751
+106407	poziom=3	płace i wynagrodzenia | Sekcja D dz. 26	[tys. zł]	temat=P2751
+106504	poziom=3	płace i wynagrodzenia | Sekcja D Podsekcja DJ	[tys. zł]	temat=P2751
+106403	poziom=3	płace i wynagrodzenia | Sekcja D dz. 27	[tys. zł]	temat=P2751
+106399	poziom=3	płace i wynagrodzenia | Sekcja D dz. 28	[tys. zł]	temat=P2751
+106500	poziom=3	płace i wynagrodzenia | Sekcja D Podsekcja DK	[tys. zł]	temat=P2751
+106394	poziom=3	płace i wynagrodzenia | Sekcja D dz. 29	[tys. zł]	temat=P2751
+106496	poziom=3	płace i wynagrodzenia | Sekcja D Podsekcja DL	[tys. zł]	temat=P2751
+106390	poziom=3	płace i wynagrodzenia | Sekcja D dz. 30	[tys. zł]	temat=P2751
+106386	poziom=3	płace i wynagrodzenia | Sekcja D dz. 31	[tys. zł]	temat=P2751
+106382	poziom=3	płace i wynagrodzenia | Sekcja D dz. 32	[tys. zł]	temat=P2751
+106378	poziom=3	płace i wynagrodzenia | Sekcja D dz. 33	[tys. zł]	temat=P2751
+106492	poziom=3	płace i wynagrodzenia | Sekcja D Podsekcja DM	[tys. zł]	temat=P2751
+106374	poziom=3	płace i wynagrodzenia | Sekcja D dz. 34	[tys. zł]	temat=P2751
+106370	poziom=3	płace i wynagrodzenia | Sekcja D dz. 35	[tys. zł]	temat=P2751
+106488	poziom=3	płace i wynagrodzenia | Sekcja D Podsekcja DN	[tys. zł]	temat=P2751
+106367	poziom=3	płace i wynagrodzenia | Sekcja D dz. 36	[tys. zł]	temat=P2751
+106363	poziom=3	płace i wynagrodzenia | Sekcja D dz. 37	[tys. zł]	temat=P2751
+106359	poziom=3	płace i wynagrodzenia | Sekcja E	[tys. zł]	temat=P2751
+106355	poziom=3	płace i wynagrodzenia | Sekcja E dz. 40	[tys. zł]	temat=P2751
+106351	poziom=3	płace i wynagrodzenia | Sekcja E dz. 41	[tys. zł]	temat=P2751
+106347	poziom=3	płace i wynagrodzenia | Sekcja F	[tys. zł]	temat=P2751
+106343	poziom=3	płace i wynagrodzenia | Sekcja F dz. 45	[tys. zł]	temat=P2751
+106339	poziom=3	płace i wynagrodzenia | Sekcja G	[tys. zł]	temat=P2751
+106335	poziom=3	płace i wynagrodzenia | Sekcja G dz. 50	[tys. zł]	temat=P2751
+106331	poziom=3	płace i wynagrodzenia | Sekcja G dz. 51	[tys. zł]	temat=P2751
+106327	poziom=3	płace i wynagrodzenia | Sekcja G dz. 52	[tys. zł]	temat=P2751
+106323	poziom=3	płace i wynagrodzenia | Sekcja H	[tys. zł]	temat=P2751
+106319	poziom=3	płace i wynagrodzenia | Sekcja H dz. 55	[tys. zł]	temat=P2751
+106315	poziom=3	płace i wynagrodzenia | Sekcja I	[tys. zł]	temat=P2751
+106311	poziom=3	płace i wynagrodzenia | Sekcja I dz. 60	[tys. zł]	temat=P2751
+106307	poziom=3	płace i wynagrodzenia | Sekcja I dz. 61	[tys. zł]	temat=P2751
+106303	poziom=3	płace i wynagrodzenia | Sekcja I dz. 62	[tys. zł]	temat=P2751
+106299	poziom=3	płace i wynagrodzenia | Sekcja I dz. 63	[tys. zł]	temat=P2751
+106295	poziom=3	płace i wynagrodzenia | Sekcja I dz. 64	[tys. zł]	temat=P2751
+106291	poziom=3	płace i wynagrodzenia | Sekcja K	[tys. zł]	temat=P2751
+106287	poziom=3	płace i wynagrodzenia | Sekcja K dz. 70	[tys. zł]	temat=P2751
+106283	poziom=3	płace i wynagrodzenia | Sekcja K dz. 71	[tys. zł]	temat=P2751
+106279	poziom=3	płace i wynagrodzenia | Sekcja K dz. 72	[tys. zł]	temat=P2751
+106275	poziom=3	płace i wynagrodzenia | Sekcja K dz. 73	[tys. zł]	temat=P2751
+106271	poziom=3	płace i wynagrodzenia | Sekcja K dz. 74	[tys. zł]	temat=P2751
+288075	poziom=3	z pozarolniczego systemu ubezpieczeń społecznych emerytura brutto w relacji do przeciętnego miesięcznego wynagrodzenia brutto | 	[-]	temat=P2860
+155676	poziom=3	płace i wynagrodzenia | Sekcja B	[tys. zł]	temat=P2869
+155672	poziom=3	płace i wynagrodzenia | Sekcja B dział 05	[tys. zł]	temat=P2869
+155668	poziom=3	płace i wynagrodzenia | Sekcja B dział 06	[tys. zł]	temat=P2869
+155664	poziom=3	płace i wynagrodzenia | Sekcja B dział 07	[tys. zł]	temat=P2869
+155660	poziom=3	płace i wynagrodzenia | Sekcja B dział 08	[tys. zł]	temat=P2869
+155656	poziom=3	płace i wynagrodzenia | Sekcja B dział 09	[tys. zł]	temat=P2869
+155652	poziom=3	płace i wynagrodzenia | Sekcja C	[tys. zł]	temat=P2869
+155648	poziom=3	płace i wynagrodzenia | Sekcja C dział 10	[tys. zł]	temat=P2869
+155644	poziom=3	płace i wynagrodzenia | Sekcja C dział 11	[tys. zł]	temat=P2869
+155640	poziom=3	płace i wynagrodzenia | Sekcja C dział 12	[tys. zł]	temat=P2869
+155636	poziom=3	płace i wynagrodzenia | Sekcja C dział 13	[tys. zł]	temat=P2869
+155632	poziom=3	płace i wynagrodzenia | Sekcja C dział 14	[tys. zł]	temat=P2869
+155628	poziom=3	płace i wynagrodzenia | Sekcja C dział 15	[tys. zł]	temat=P2869
+155624	poziom=3	płace i wynagrodzenia | Sekcja C dział 16	[tys. zł]	temat=P2869
+155620	poziom=3	płace i wynagrodzenia | Sekcja C dział 17	[tys. zł]	temat=P2869
+155616	poziom=3	płace i wynagrodzenia | Sekcja C dział 18	[tys. zł]	temat=P2869
+155612	poziom=3	płace i wynagrodzenia | Sekcja C dział 19	[tys. zł]	temat=P2869
+155608	poziom=3	płace i wynagrodzenia | Sekcja C dział 20	[tys. zł]	temat=P2869
+155604	poziom=3	płace i wynagrodzenia | Sekcja C dział 21	[tys. zł]	temat=P2869
+155600	poziom=3	płace i wynagrodzenia | Sekcja C dział 22	[tys. zł]	temat=P2869
+155596	poziom=3	płace i wynagrodzenia | Sekcja C dział 23	[tys. zł]	temat=P2869
+155592	poziom=3	płace i wynagrodzenia | Sekcja C dział 24	[tys. zł]	temat=P2869
+155588	poziom=3	płace i wynagrodzenia | Sekcja C dział 25	[tys. zł]	temat=P2869
+155584	poziom=3	płace i wynagrodzenia | Sekcja C dział 26	[tys. zł]	temat=P2869
+155580	poziom=3	płace i wynagrodzenia | Sekcja C dział 27	[tys. zł]	temat=P2869
+155576	poziom=3	płace i wynagrodzenia | Sekcja C dział 28	[tys. zł]	temat=P2869
+155572	poziom=3	płace i wynagrodzenia | Sekcja C dział 29	[tys. zł]	temat=P2869
+155568	poziom=3	płace i wynagrodzenia | Sekcja C dział 30	[tys. zł]	temat=P2869
+155564	poziom=3	płace i wynagrodzenia | Sekcja C dział 31	[tys. zł]	temat=P2869
+155560	poziom=3	płace i wynagrodzenia | Sekcja C dział 32	[tys. zł]	temat=P2869
+155556	poziom=3	płace i wynagrodzenia | Sekcja C dział 33	[tys. zł]	temat=P2869
+155552	poziom=3	płace i wynagrodzenia | Sekcja D	[tys. zł]	temat=P2869
+300260	poziom=3	płace i wynagrodzenia | Sekcja D dział 35	[tys. zł]	temat=P2869
+155548	poziom=3	płace i wynagrodzenia | Sekcja E	[tys. zł]	temat=P2869
+155544	poziom=3	płace i wynagrodzenia | Sekcja E dział 36	[tys. zł]	temat=P2869
+155540	poziom=3	płace i wynagrodzenia | Sekcja E dział 37	[tys. zł]	temat=P2869
+155536	poziom=3	płace i wynagrodzenia | Sekcja E dział 38	[tys. zł]	temat=P2869
+155532	poziom=3	płace i wynagrodzenia | Sekcja E dział 39	[tys. zł]	temat=P2869
+155528	poziom=3	płace i wynagrodzenia | Sekcja F	[tys. zł]	temat=P2869
+155482	poziom=3	płace i wynagrodzenia | Sekcja F dział 41	[tys. zł]	temat=P2869
+155478	poziom=3	płace i wynagrodzenia | Sekcja F dział 42	[tys. zł]	temat=P2869
+155474	poziom=3	płace i wynagrodzenia | Sekcja F dział 43	[tys. zł]	temat=P2869
+155470	poziom=3	płace i wynagrodzenia | Sekcja G	[tys. zł]	temat=P2869
+155466	poziom=3	płace i wynagrodzenia | Sekcja G dział 45	[tys. zł]	temat=P2869
+155523	poziom=3	płace i wynagrodzenia | Sekcja G dział 46	[tys. zł]	temat=P2869
+155519	poziom=3	płace i wynagrodzenia | Sekcja G dział 47	[tys. zł]	temat=P2869
+155515	poziom=3	płace i wynagrodzenia | Sekcja H	[tys. zł]	temat=P2869
+155511	poziom=3	płace i wynagrodzenia | Sekcja H dział 49	[tys. zł]	temat=P2869
+155507	poziom=3	płace i wynagrodzenia | Sekcja H dział 50	[tys. zł]	temat=P2869
+155503	poziom=3	płace i wynagrodzenia | Sekcja H dział 51	[tys. zł]	temat=P2869
+155499	poziom=3	płace i wynagrodzenia | Sekcja H dział 52	[tys. zł]	temat=P2869
+155495	poziom=3	płace i wynagrodzenia | Sekcja H dział 53	[tys. zł]	temat=P2869
+155491	poziom=3	płace i wynagrodzenia | Sekcja I	[tys. zł]	temat=P2869
+155487	poziom=3	płace i wynagrodzenia | Sekcja I dział 55	[tys. zł]	temat=P2869
+155483	poziom=3	płace i wynagrodzenia | Sekcja I dział 56	[tys. zł]	temat=P2869
+155460	poziom=3	płace i wynagrodzenia | Sekcja J	[tys. zł]	temat=P2869
+155456	poziom=3	płace i wynagrodzenia | Sekcja J dział 58	[tys. zł]	temat=P2869
+155452	poziom=3	płace i wynagrodzenia | Sekcja J dział 59	[tys. zł]	temat=P2869
+155448	poziom=3	płace i wynagrodzenia | Sekcja J dział 60	[tys. zł]	temat=P2869
+155444	poziom=3	płace i wynagrodzenia | Sekcja J dział 61	[tys. zł]	temat=P2869
+155440	poziom=3	płace i wynagrodzenia | Sekcja J dział 62	[tys. zł]	temat=P2869
+155436	poziom=3	płace i wynagrodzenia | Sekcja J dział 63	[tys. zł]	temat=P2869
+1727554	poziom=3	płace i wynagrodzenia | Sekcja K	[tys. zł]	temat=P2869
+1727555	poziom=3	płace i wynagrodzenia | Sekcja K dział 64	[tys. zł]	temat=P2869
+1727556	poziom=3	płace i wynagrodzenia | Sekcja K dział 65	[tys. zł]	temat=P2869
+1727557	poziom=3	płace i wynagrodzenia | Sekcja K dział 66	[tys. zł]	temat=P2869
+155416	poziom=3	płace i wynagrodzenia | Sekcja L	[tys. zł]	temat=P2869
+300264	poziom=3	płace i wynagrodzenia | Sekcja L dział 68	[tys. zł]	temat=P2869
+155412	poziom=3	płace i wynagrodzenia | Sekcja M	[tys. zł]	temat=P2869
+155408	poziom=3	płace i wynagrodzenia | Sekcja M dział 69	[tys. zł]	temat=P2869
+155404	poziom=3	płace i wynagrodzenia | Sekcja M dział 70	[tys. zł]	temat=P2869
+155346	poziom=3	płace i wynagrodzenia | Sekcja M dział 71	[tys. zł]	temat=P2869
+155400	poziom=3	płace i wynagrodzenia | Sekcja M dział 72	[tys. zł]	temat=P2869
+155396	poziom=3	płace i wynagrodzenia | Sekcja M dział 73	[tys. zł]	temat=P2869
+155392	poziom=3	płace i wynagrodzenia | Sekcja M dział 74	[tys. zł]	temat=P2869
+155388	poziom=3	płace i wynagrodzenia | Sekcja M dział 75	[tys. zł]	temat=P2869
+155384	poziom=3	płace i wynagrodzenia | Sekcja N	[tys. zł]	temat=P2869
+155380	poziom=3	płace i wynagrodzenia | Sekcja N dział 77	[tys. zł]	temat=P2869
+155376	poziom=3	płace i wynagrodzenia | Sekcja N dział 78	[tys. zł]	temat=P2869
+155372	poziom=3	płace i wynagrodzenia | Sekcja N dział 79	[tys. zł]	temat=P2869
+155368	poziom=3	płace i wynagrodzenia | Sekcja N dział 80	[tys. zł]	temat=P2869
+155364	poziom=3	płace i wynagrodzenia | Sekcja N dział 81	[tys. zł]	temat=P2869
+155360	poziom=3	płace i wynagrodzenia | Sekcja N dział 82	[tys. zł]	temat=P2869
+1727559	poziom=3	płace i wynagrodzenia | Sekcja P	[tys. zł]	temat=P2869
+1727560	poziom=3	płace i wynagrodzenia | Sekcja P dział 85	[tys. zł]	temat=P2869
+1727569	poziom=3	płace i wynagrodzenia | Sekcja Q	[tys. zł]	temat=P2869
+1727570	poziom=3	płace i wynagrodzenia | Sekcja Q dział 86	[tys. zł]	temat=P2869
+1727571	poziom=3	płace i wynagrodzenia | Sekcja Q dział 87	[tys. zł]	temat=P2869
+1727572	poziom=3	płace i wynagrodzenia | Sekcja Q dział 88	[tys. zł]	temat=P2869
+1727573	poziom=3	płace i wynagrodzenia | Sekcja R	[tys. zł]	temat=P2869
+1727574	poziom=3	płace i wynagrodzenia | Sekcja R dział 90	[tys. zł]	temat=P2869
+1727575	poziom=3	płace i wynagrodzenia | Sekcja R dział 91	[tys. zł]	temat=P2869
+1727576	poziom=3	płace i wynagrodzenia | Sekcja R dział 92	[tys. zł]	temat=P2869
+1727577	poziom=3	płace i wynagrodzenia | Sekcja R dział 93	[tys. zł]	temat=P2869
+155280	poziom=3	płace i wynagrodzenia | Sekcja S dział 95	[tys. zł]	temat=P2869
+1727563	poziom=3	płace i wynagrodzenia | Sekcja S dział 96	[tys. zł]	temat=P2869
+273461	poziom=5	wydatki bieżące na wynagrodzenia | 	[zł]	temat=P3013
+273844	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P3021
+273842	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P3021
+273843	poziom=6	miasta na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P3021
+377873	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P3228
+377888	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P3228
+377869	poziom=6	miasta na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P3228
+386720	poziom=3	wynagrodzenia brutto | ogółem	[tys. zł]	temat=P3244
+386715	poziom=3	wynagrodzenia brutto | małe ogółem	[tys. zł]	temat=P3244
+386710	poziom=3	wynagrodzenia brutto | mikro	[tys. zł]	temat=P3244
+498848	poziom=3	wynagrodzenia brutto | małe	[tys. zł]	temat=P3244
+386705	poziom=3	wynagrodzenia brutto | średnie	[tys. zł]	temat=P3244
+386700	poziom=3	wynagrodzenia brutto | duże	[tys. zł]	temat=P3244
+395143	poziom=5	wydatki bieżące na wynagrodzenia | 	[zł]	temat=P3288
+395179	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P3289
+395181	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P3289
+395180	poziom=6	miasta na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P3289
+395221	poziom=5	wydatki bieżące na wynagrodzenia | 	[zł]	temat=P3290
+395243	poziom=5	wydatki bieżące na wynagrodzenia | 	[zł]	temat=P3291
+395249	poziom=5	wydatki bieżące na wynagrodzenia | 	[zł]	temat=P3292
+395255	poziom=5	wydatki bieżące na wynagrodzenia | 	[zł]	temat=P3293
+395262	poziom=5	wydatki bieżące na wynagrodzenia | 	[zł]	temat=P3294
+567994	poziom=6	gminy łącznie z miastami na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P3758
+568008	poziom=6	gminy bez miast na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P3758
+568022	poziom=6	miasta na prawach powiatu | wydatki bieżące na wynagrodzenia	[zł]	temat=P3758
+568038	poziom=5	wydatki bieżące na wynagrodzenia | 	[zł]	temat=P3759
+1601898	poziom=3	ogółem (S.13) | ogółem	[tys. zł]	temat=P3883
+1601899	poziom=3	ogółem (S.13) | ogółem	[zł]	temat=P3883
+1601900	poziom=3	ogółem (S.13) | ogółem	[tys. zł]	temat=P3883
+1601901	poziom=3	ogółem (S.13) | ogółem	[zł]	temat=P3883
+1601902	poziom=3	ogółem (S.13) | ogółem	[tys. zł]	temat=P3883
+1601903	poziom=3	ogółem (S.13) | ogółem	[zł]	temat=P3883
+1601904	poziom=3	ogółem (S.13) | ogółem	[tys. zł]	temat=P3883
+1601905	poziom=3	ogółem (S.13) | ogółem	[zł]	temat=P3883
+1601906	poziom=3	ogółem (S.13) | ogółem	[tys. zł]	temat=P3883
+1601907	poziom=3	ogółem (S.13) | ogółem	[zł]	temat=P3883
+1601908	poziom=3	ogółem (S.13) | ogółem	[tys. zł]	temat=P3883
+1601909	poziom=3	ogółem (S.13) | ogółem	[zł]	temat=P3883
+1601910	poziom=3	ogółem (S.13) | ogółem	[tys. zł]	temat=P3883
+1601911	poziom=3	ogółem (S.13) | ogółem	[zł]	temat=P3883
+1601912	poziom=3	ogółem (S.13) | ogółem	[tys. zł]	temat=P3883
+1601913	poziom=3	ogółem (S.13) | ogółem	[zł]	temat=P3883
+1601914	poziom=3	ogółem (S.13) | ogółem	[tys. zł]	temat=P3883
+1601915	poziom=3	ogółem (S.13) | ogółem	[zł]	temat=P3883
+1601916	poziom=3	ogółem (S.13) | ogółem	[tys. zł]	temat=P3883
+1601917	poziom=3	ogółem (S.13) | ogółem	[zł]	temat=P3883
+1601918	poziom=3	ogółem (S.13) | ogółem	[tys. zł]	temat=P3883
+1601919	poziom=3	ogółem (S.13) | ogółem	[zł]	temat=P3883
+1601920	poziom=3	ogółem (S.13) | ogółem	[tys. zł]	temat=P3883
+1601921	poziom=3	ogółem (S.13) | ogółem	[zł]	temat=P3883
+1601922	poziom=3	ogółem (S.13) | ogółem	[tys. zł]	temat=P3883
+1601923	poziom=3	ogółem (S.13) | ogółem	[zł]	temat=P3883
+1601924	poziom=3	ogółem (S.13) | ogółem	[tys. zł]	temat=P3883
+1601925	poziom=3	ogółem (S.13) | ogółem	[zł]	temat=P3883
+1601926	poziom=3	ogółem (S.13) | ogółem	[tys. zł]	temat=P3883
+1601927	poziom=3	ogółem (S.13) | ogółem	[zł]	temat=P3883
+1602108	poziom=3	ogółem (S.13) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[tys. zł]	temat=P3883
+1602109	poziom=3	ogółem (S.13) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[zł]	temat=P3883
+1602110	poziom=3	ogółem (S.13) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[tys. zł]	temat=P3883
+1602111	poziom=3	ogółem (S.13) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[zł]	temat=P3883
+1602112	poziom=3	ogółem (S.13) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[tys. zł]	temat=P3883
+1602113	poziom=3	ogółem (S.13) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[zł]	temat=P3883
+1602318	poziom=3	ogółem (S.13) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1602319	poziom=3	ogółem (S.13) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1602324	poziom=3	ogółem (S.13) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1602325	poziom=3	ogółem (S.13) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1602326	poziom=3	ogółem (S.13) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1602327	poziom=3	ogółem (S.13) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1602328	poziom=3	ogółem (S.13) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1602329	poziom=3	ogółem (S.13) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1602330	poziom=3	ogółem (S.13) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1602331	poziom=3	ogółem (S.13) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1602332	poziom=3	ogółem (S.13) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1602333	poziom=3	ogółem (S.13) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1602334	poziom=3	ogółem (S.13) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1602335	poziom=3	ogółem (S.13) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1602528	poziom=3	ogółem (S.13) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[tys. zł]	temat=P3883
+1602529	poziom=3	ogółem (S.13) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[zł]	temat=P3883
+1602546	poziom=3	ogółem (S.13) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[tys. zł]	temat=P3883
+1602547	poziom=3	ogółem (S.13) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[zł]	temat=P3883
+1602548	poziom=3	ogółem (S.13) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[tys. zł]	temat=P3883
+1602549	poziom=3	ogółem (S.13) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[zł]	temat=P3883
+1602550	poziom=3	ogółem (S.13) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[tys. zł]	temat=P3883
+1602551	poziom=3	ogółem (S.13) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[zł]	temat=P3883
+1602552	poziom=3	ogółem (S.13) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[tys. zł]	temat=P3883
+1602553	poziom=3	ogółem (S.13) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[zł]	temat=P3883
+1602738	poziom=3	ogółem (S.13) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[tys. zł]	temat=P3883
+1602739	poziom=3	ogółem (S.13) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[zł]	temat=P3883
+1602764	poziom=3	ogółem (S.13) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[tys. zł]	temat=P3883
+1602765	poziom=3	ogółem (S.13) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[zł]	temat=P3883
+1602766	poziom=3	ogółem (S.13) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[tys. zł]	temat=P3883
+1602767	poziom=3	ogółem (S.13) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[zł]	temat=P3883
+1602948	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[tys. zł]	temat=P3883
+1602949	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[zł]	temat=P3883
+1602950	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[tys. zł]	temat=P3883
+1602951	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[zł]	temat=P3883
+1602952	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[tys. zł]	temat=P3883
+1602953	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[zł]	temat=P3883
+1602954	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[tys. zł]	temat=P3883
+1602955	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[zł]	temat=P3883
+1602956	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[tys. zł]	temat=P3883
+1602957	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[zł]	temat=P3883
+1602958	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[tys. zł]	temat=P3883
+1602959	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[zł]	temat=P3883
+1602960	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[tys. zł]	temat=P3883
+1602961	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[zł]	temat=P3883
+1602962	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[tys. zł]	temat=P3883
+1602963	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[zł]	temat=P3883
+1602964	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[tys. zł]	temat=P3883
+1602965	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[zł]	temat=P3883
+1602966	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[tys. zł]	temat=P3883
+1602967	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[zł]	temat=P3883
+1602968	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[tys. zł]	temat=P3883
+1602969	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[zł]	temat=P3883
+1602970	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[tys. zł]	temat=P3883
+1602971	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[zł]	temat=P3883
+1602972	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[tys. zł]	temat=P3883
+1602973	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[zł]	temat=P3883
+1602974	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[tys. zł]	temat=P3883
+1602975	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[zł]	temat=P3883
+1602976	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[tys. zł]	temat=P3883
+1602977	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | ogółem	[zł]	temat=P3883
+1603158	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[tys. zł]	temat=P3883
+1603159	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[zł]	temat=P3883
+1603160	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[tys. zł]	temat=P3883
+1603161	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[zł]	temat=P3883
+1603162	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[tys. zł]	temat=P3883
+1603163	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[zł]	temat=P3883
+1603368	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1603369	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1603374	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1603375	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1603376	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1603377	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1603378	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1603379	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1603380	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1603381	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1603382	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1603383	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1603384	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1603385	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1603578	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[tys. zł]	temat=P3883
+1603579	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[zł]	temat=P3883
+1603596	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[tys. zł]	temat=P3883
+1603597	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[zł]	temat=P3883
+1603598	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[tys. zł]	temat=P3883
+1603599	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[zł]	temat=P3883
+1603600	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[tys. zł]	temat=P3883
+1603601	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[zł]	temat=P3883
+1603602	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[tys. zł]	temat=P3883
+1603603	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[zł]	temat=P3883
+1603788	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[tys. zł]	temat=P3883
+1603789	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[zł]	temat=P3883
+1603814	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[tys. zł]	temat=P3883
+1603815	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[zł]	temat=P3883
+1603816	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[tys. zł]	temat=P3883
+1603817	poziom=3	Podsektor instytucji rządowych na szczeblu centralnym (S.1311) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[zł]	temat=P3883
+1603998	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[tys. zł]	temat=P3883
+1603999	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[zł]	temat=P3883
+1604000	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[tys. zł]	temat=P3883
+1604001	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[zł]	temat=P3883
+1604002	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[tys. zł]	temat=P3883
+1604003	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[zł]	temat=P3883
+1604004	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[tys. zł]	temat=P3883
+1604005	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[zł]	temat=P3883
+1604006	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[tys. zł]	temat=P3883
+1604007	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[zł]	temat=P3883
+1604008	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[tys. zł]	temat=P3883
+1604009	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[zł]	temat=P3883
+1604010	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[tys. zł]	temat=P3883
+1604011	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[zł]	temat=P3883
+1604012	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[tys. zł]	temat=P3883
+1604013	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[zł]	temat=P3883
+1604014	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[tys. zł]	temat=P3883
+1604015	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[zł]	temat=P3883
+1604016	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[tys. zł]	temat=P3883
+1604017	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[zł]	temat=P3883
+1604018	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[tys. zł]	temat=P3883
+1604019	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[zł]	temat=P3883
+1604020	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[tys. zł]	temat=P3883
+1604021	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[zł]	temat=P3883
+1604022	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[tys. zł]	temat=P3883
+1604023	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[zł]	temat=P3883
+1604024	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[tys. zł]	temat=P3883
+1604025	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[zł]	temat=P3883
+1604026	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[tys. zł]	temat=P3883
+1604027	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | ogółem	[zł]	temat=P3883
+1604208	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[tys. zł]	temat=P3883
+1604209	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[zł]	temat=P3883
+1604210	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[tys. zł]	temat=P3883
+1604211	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[zł]	temat=P3883
+1604212	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[tys. zł]	temat=P3883
+1604213	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[zł]	temat=P3883
+1604418	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1604419	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1604424	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1604425	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1604426	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1604427	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1604428	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1604429	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1604430	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1604431	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1604432	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1604433	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1604434	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1604435	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1604628	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[tys. zł]	temat=P3883
+1604629	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[zł]	temat=P3883
+1604646	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[tys. zł]	temat=P3883
+1604647	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[zł]	temat=P3883
+1604648	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[tys. zł]	temat=P3883
+1604649	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[zł]	temat=P3883
+1604650	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[tys. zł]	temat=P3883
+1604651	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[zł]	temat=P3883
+1604652	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[tys. zł]	temat=P3883
+1604653	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[zł]	temat=P3883
+1604838	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[tys. zł]	temat=P3883
+1604839	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[zł]	temat=P3883
+1604864	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[tys. zł]	temat=P3883
+1604865	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[zł]	temat=P3883
+1604866	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[tys. zł]	temat=P3883
+1604867	poziom=3	Podsektor instytucji samorządowych na szczeblu lokalnym (S.1313) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[zł]	temat=P3883
+1605048	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[tys. zł]	temat=P3883
+1605049	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[zł]	temat=P3883
+1605050	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[tys. zł]	temat=P3883
+1605051	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[zł]	temat=P3883
+1605052	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[tys. zł]	temat=P3883
+1605053	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[zł]	temat=P3883
+1605054	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[tys. zł]	temat=P3883
+1605055	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[zł]	temat=P3883
+1605056	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[tys. zł]	temat=P3883
+1605057	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[zł]	temat=P3883
+1605058	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[tys. zł]	temat=P3883
+1605059	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[zł]	temat=P3883
+1605060	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[tys. zł]	temat=P3883
+1605061	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[zł]	temat=P3883
+1605062	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[tys. zł]	temat=P3883
+1605063	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[zł]	temat=P3883
+1605064	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[tys. zł]	temat=P3883
+1605065	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[zł]	temat=P3883
+1605066	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[tys. zł]	temat=P3883
+1605067	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[zł]	temat=P3883
+1605068	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[tys. zł]	temat=P3883
+1605069	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[zł]	temat=P3883
+1605070	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[tys. zł]	temat=P3883
+1605071	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[zł]	temat=P3883
+1605072	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[tys. zł]	temat=P3883
+1605073	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[zł]	temat=P3883
+1605074	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[tys. zł]	temat=P3883
+1605075	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[zł]	temat=P3883
+1605076	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[tys. zł]	temat=P3883
+1605077	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | ogółem	[zł]	temat=P3883
+1605258	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[tys. zł]	temat=P3883
+1605259	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[zł]	temat=P3883
+1605260	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[tys. zł]	temat=P3883
+1605261	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[zł]	temat=P3883
+1605262	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[tys. zł]	temat=P3883
+1605263	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Generująca wysoką wartość dodaną gospodarka oparta na wiedzy (I)	[zł]	temat=P3883
+1605468	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1605469	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1605474	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1605475	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1605476	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1605477	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1605478	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1605479	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1605480	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1605481	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1605482	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1605483	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1605484	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[tys. zł]	temat=P3883
+1605485	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Kapitał rzeczowy, ludzki i społeczny kluczowy dla procesów rozwoju (II)	[zł]	temat=P3883
+1605678	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[tys. zł]	temat=P3883
+1605679	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[zł]	temat=P3883
+1605696	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[tys. zł]	temat=P3883
+1605697	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[zł]	temat=P3883
+1605698	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[tys. zł]	temat=P3883
+1605699	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[zł]	temat=P3883
+1605700	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[tys. zł]	temat=P3883
+1605701	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[zł]	temat=P3883
+1605702	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[tys. zł]	temat=P3883
+1605703	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Baza gospodarczo-społeczna warunkująca realizację polityki rozwoju (III)	[zł]	temat=P3883
+1605888	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[tys. zł]	temat=P3883
+1605889	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[zł]	temat=P3883
+1605914	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[tys. zł]	temat=P3883
+1605915	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[zł]	temat=P3883
+1605916	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[tys. zł]	temat=P3883
+1605917	poziom=3	Podsektor funduszy zabezpieczenia społecznego (S.1314) | Wydatki w sferze otoczenia polityki rozwoju (IV)	[zł]	temat=P3883

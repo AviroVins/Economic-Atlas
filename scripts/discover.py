@@ -27,13 +27,28 @@ def cmd_subjects(client, args):
         print(f"{s.get('id')}\t{s.get('name')}\t(podtematy: {s.get('hasVariables')})")
 
 
-def cmd_variables(client, args):
-    pages = client.get_all_pages("variables/search", {"name": args.name}, max_pages=args.max_pages)
-    for page in pages:
-        for v in page["response"].get("results", []):
-            print(f"{v.get('id')}\tpoziom={v.get('level')}\t{v.get('n1')} | {v.get('n2', '')}"
-                  f"\t[{v.get('measureUnitName', '')}]\ttemat={v.get('subjectId')}")
+def _variable_lines(pages):
+    return [
+        f"{v.get('id')}\tpoziom={v.get('level')}\t{v.get('n1')} | {v.get('n2', '')}"
+        f"\t[{v.get('measureUnitName', '')}]\ttemat={v.get('subjectId')}"
+        for page in pages
+        for v in page["response"].get("results", [])
+    ]
 
+
+def cmd_variables(client, args):
+    pages = client.get_all_pages("variables/search", {"name": args.name},
+                                 max_pages=args.max_pages)
+    lines = _variable_lines(pages)
+
+    if args.out:
+        out = Path(args.out)
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text("\n".join(lines) + "\n", encoding="utf-8")
+        print(f"Zapisano {len(lines)} wierszy: {out}")
+    else:
+        for line in lines:
+            print(line)
 
 def cmd_units(client, args):
     cities = json.loads((ROOT / "config" / "cities.json").read_text(encoding="utf-8"))
@@ -52,6 +67,7 @@ def main():
     s = sub.add_parser("subjects"); s.add_argument("--parent-id"); s.set_defaults(fn=cmd_subjects)
     v = sub.add_parser("variables"); v.add_argument("--name", required=True)
     v.add_argument("--max-pages", type=int, default=3); v.set_defaults(fn=cmd_variables)
+    v.add_argument("--out")
     u = sub.add_parser("units"); u.set_defaults(fn=cmd_units)
     args = p.parse_args()
     args.fn(BdlClient(), args)

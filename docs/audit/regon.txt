@@ -1,0 +1,8 @@
+60530	poziom=6	podmioty wpisane do rejestru REGON na 10 tys. ludności | 	[-]	temat=P2419
+60529	poziom=6	jednostki nowo zarejestrowane w rejestrze REGON na 10 tys. ludności | 	[-]	temat=P2419
+1548707	poziom=6	jednostki nowo zarejestrowane w rejestrze REGON na 1000 ludności | 	[-]	temat=P2419
+60528	poziom=6	jednostki wykreślone z rejestru REGON na 10 tys. ludności | 	[-]	temat=P2419
+1645253	poziom=6	osoby fizyczne prowadzące działalność gospodarczą nowo zarejestrowane w relacji do wyrejestrowanych w rejestrze REGON | 	[%]	temat=P2419
+471845	poziom=6	udział podmiotów wyrejestrowanych w ogólnej liczbie podmiotów wpisanych do rejestru REGON | 	[%]	temat=P2419
+1548709	poziom=6	udział podmiotów gospodarki narodowej o liczbie pracujących do 9 osób w ogólnej liczbie podmiotów wpisanych do rejestru REGON | 	[%]	temat=P2419
+1644144	poziom=3	udział podmiotów gospodarki narodowej z udziałem kapitału zagranicznego w ogólnej liczbie podmiotów wpisanych do rejestru REGON | 	[%]	temat=P3407

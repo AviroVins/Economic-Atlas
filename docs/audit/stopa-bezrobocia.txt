@@ -1,0 +1,334 @@
+77553	poziom=3	1 kwartał | stopa bezrobocia	[%]	temat=P2567
+77469	poziom=3	1 kwartał | stopa bezrobocia	[%]	temat=P2567
+77581	poziom=3	1 kwartał | stopa bezrobocia	[%]	temat=P2567
+77497	poziom=3	1 kwartał | stopa bezrobocia	[%]	temat=P2567
+77609	poziom=3	1 kwartał | stopa bezrobocia	[%]	temat=P2567
+77525	poziom=3	1 kwartał | stopa bezrobocia	[%]	temat=P2567
+77554	poziom=3	2 kwartał | stopa bezrobocia	[%]	temat=P2567
+77470	poziom=3	2 kwartał | stopa bezrobocia	[%]	temat=P2567
+77582	poziom=3	2 kwartał | stopa bezrobocia	[%]	temat=P2567
+77498	poziom=3	2 kwartał | stopa bezrobocia	[%]	temat=P2567
+77610	poziom=3	2 kwartał | stopa bezrobocia	[%]	temat=P2567
+77526	poziom=3	2 kwartał | stopa bezrobocia	[%]	temat=P2567
+77555	poziom=3	3 kwartał | stopa bezrobocia	[%]	temat=P2567
+77471	poziom=3	3 kwartał | stopa bezrobocia	[%]	temat=P2567
+77583	poziom=3	3 kwartał | stopa bezrobocia	[%]	temat=P2567
+77499	poziom=3	3 kwartał | stopa bezrobocia	[%]	temat=P2567
+77611	poziom=3	3 kwartał | stopa bezrobocia	[%]	temat=P2567
+77527	poziom=3	3 kwartał | stopa bezrobocia	[%]	temat=P2567
+77556	poziom=3	4 kwartał | stopa bezrobocia	[%]	temat=P2567
+77472	poziom=3	4 kwartał | stopa bezrobocia	[%]	temat=P2567
+77584	poziom=3	4 kwartał | stopa bezrobocia	[%]	temat=P2567
+77500	poziom=3	4 kwartał | stopa bezrobocia	[%]	temat=P2567
+77612	poziom=3	4 kwartał | stopa bezrobocia	[%]	temat=P2567
+77528	poziom=3	4 kwartał | stopa bezrobocia	[%]	temat=P2567
+450231	poziom=5	ogółem | ogółem	[%]	temat=P3414
+450230	poziom=5	ogółem | ogółem	[%]	temat=P3414
+450285	poziom=5	ogółem | mężczyźni	[%]	temat=P3414
+450284	poziom=5	ogółem | mężczyźni	[%]	temat=P3414
+450339	poziom=5	ogółem | kobiety	[%]	temat=P3414
+450338	poziom=5	ogółem | kobiety	[%]	temat=P3414
+450213	poziom=5	w miastach | ogółem	[%]	temat=P3414
+450212	poziom=5	w miastach | ogółem	[%]	temat=P3414
+450267	poziom=5	w miastach | mężczyźni	[%]	temat=P3414
+450266	poziom=5	w miastach | mężczyźni	[%]	temat=P3414
+450321	poziom=5	w miastach | kobiety	[%]	temat=P3414
+450320	poziom=5	w miastach | kobiety	[%]	temat=P3414
+450195	poziom=5	na wsi | ogółem	[%]	temat=P3414
+450194	poziom=5	na wsi | ogółem	[%]	temat=P3414
+450249	poziom=5	na wsi | mężczyźni	[%]	temat=P3414
+450248	poziom=5	na wsi | mężczyźni	[%]	temat=P3414
+450303	poziom=5	na wsi | kobiety	[%]	temat=P3414
+450302	poziom=5	na wsi | kobiety	[%]	temat=P3414
+461248	poziom=3	ogółem | ogółem	[%]	temat=P3555
+461322	poziom=3	ogółem | ogółem	[%]	temat=P3555
+459942	poziom=3	ogółem | ogółem	[%]	temat=P3555
+459941	poziom=3	ogółem | ogółem	[%]	temat=P3555
+459940	poziom=3	ogółem | ogółem	[%]	temat=P3555
+459939	poziom=3	ogółem | ogółem	[%]	temat=P3555
+459864	poziom=3	ogółem | ogółem	[%]	temat=P3555
+459863	poziom=3	ogółem | ogółem	[%]	temat=P3555
+459862	poziom=3	ogółem | ogółem	[%]	temat=P3555
+459861	poziom=3	ogółem | ogółem	[%]	temat=P3555
+459860	poziom=3	ogółem | ogółem	[%]	temat=P3555
+459859	poziom=3	ogółem | ogółem	[%]	temat=P3555
+459858	poziom=3	ogółem | ogółem	[%]	temat=P3555
+459857	poziom=3	ogółem | ogółem	[%]	temat=P3555
+461192	poziom=3	ogółem | kobiety	[%]	temat=P3555
+461324	poziom=3	ogółem | kobiety	[%]	temat=P3555
+459832	poziom=3	ogółem | kobiety	[%]	temat=P3555
+459831	poziom=3	ogółem | kobiety	[%]	temat=P3555
+459830	poziom=3	ogółem | kobiety	[%]	temat=P3555
+459829	poziom=3	ogółem | kobiety	[%]	temat=P3555
+459828	poziom=3	ogółem | kobiety	[%]	temat=P3555
+459827	poziom=3	ogółem | kobiety	[%]	temat=P3555
+459826	poziom=3	ogółem | kobiety	[%]	temat=P3555
+459743	poziom=3	ogółem | kobiety	[%]	temat=P3555
+459742	poziom=3	ogółem | kobiety	[%]	temat=P3555
+459741	poziom=3	ogółem | kobiety	[%]	temat=P3555
+459740	poziom=3	ogółem | kobiety	[%]	temat=P3555
+459739	poziom=3	ogółem | kobiety	[%]	temat=P3555
+461183	poziom=3	ogółem | mężczyźni	[%]	temat=P3555
+461285	poziom=3	ogółem | mężczyźni	[%]	temat=P3555
+459714	poziom=3	ogółem | mężczyźni	[%]	temat=P3555
+459713	poziom=3	ogółem | mężczyźni	[%]	temat=P3555
+459712	poziom=3	ogółem | mężczyźni	[%]	temat=P3555
+459711	poziom=3	ogółem | mężczyźni	[%]	temat=P3555
+459710	poziom=3	ogółem | mężczyźni	[%]	temat=P3555
+459709	poziom=3	ogółem | mężczyźni	[%]	temat=P3555
+459708	poziom=3	ogółem | mężczyźni	[%]	temat=P3555
+459707	poziom=3	ogółem | mężczyźni	[%]	temat=P3555
+459706	poziom=3	ogółem | mężczyźni	[%]	temat=P3555
+459705	poziom=3	ogółem | mężczyźni	[%]	temat=P3555
+459618	poziom=3	ogółem | mężczyźni	[%]	temat=P3555
+459617	poziom=3	ogółem | mężczyźni	[%]	temat=P3555
+461292	poziom=3	w miastach | ogółem	[%]	temat=P3555
+461176	poziom=3	w miastach | ogółem	[%]	temat=P3555
+459954	poziom=3	w miastach | ogółem	[%]	temat=P3555
+459953	poziom=3	w miastach | ogółem	[%]	temat=P3555
+459952	poziom=3	w miastach | ogółem	[%]	temat=P3555
+459951	poziom=3	w miastach | ogółem	[%]	temat=P3555
+459950	poziom=3	w miastach | ogółem	[%]	temat=P3555
+459949	poziom=3	w miastach | ogółem	[%]	temat=P3555
+459948	poziom=3	w miastach | ogółem	[%]	temat=P3555
+459947	poziom=3	w miastach | ogółem	[%]	temat=P3555
+459946	poziom=3	w miastach | ogółem	[%]	temat=P3555
+459945	poziom=3	w miastach | ogółem	[%]	temat=P3555
+459944	poziom=3	w miastach | ogółem	[%]	temat=P3555
+459943	poziom=3	w miastach | ogółem	[%]	temat=P3555
+461283	poziom=3	w miastach | kobiety	[%]	temat=P3555
+461206	poziom=3	w miastach | kobiety	[%]	temat=P3555
+459844	poziom=3	w miastach | kobiety	[%]	temat=P3555
+459843	poziom=3	w miastach | kobiety	[%]	temat=P3555
+459842	poziom=3	w miastach | kobiety	[%]	temat=P3555
+459841	poziom=3	w miastach | kobiety	[%]	temat=P3555
+459840	poziom=3	w miastach | kobiety	[%]	temat=P3555
+459839	poziom=3	w miastach | kobiety	[%]	temat=P3555
+459838	poziom=3	w miastach | kobiety	[%]	temat=P3555
+459837	poziom=3	w miastach | kobiety	[%]	temat=P3555
+459836	poziom=3	w miastach | kobiety	[%]	temat=P3555
+459835	poziom=3	w miastach | kobiety	[%]	temat=P3555
+459834	poziom=3	w miastach | kobiety	[%]	temat=P3555
+459833	poziom=3	w miastach | kobiety	[%]	temat=P3555
+461314	poziom=3	w miastach | mężczyźni	[%]	temat=P3555
+461246	poziom=3	w miastach | mężczyźni	[%]	temat=P3555
+459726	poziom=3	w miastach | mężczyźni	[%]	temat=P3555
+459725	poziom=3	w miastach | mężczyźni	[%]	temat=P3555
+459724	poziom=3	w miastach | mężczyźni	[%]	temat=P3555
+459723	poziom=3	w miastach | mężczyźni	[%]	temat=P3555
+459722	poziom=3	w miastach | mężczyźni	[%]	temat=P3555
+459721	poziom=3	w miastach | mężczyźni	[%]	temat=P3555
+459720	poziom=3	w miastach | mężczyźni	[%]	temat=P3555
+459719	poziom=3	w miastach | mężczyźni	[%]	temat=P3555
+459718	poziom=3	w miastach | mężczyźni	[%]	temat=P3555
+459717	poziom=3	w miastach | mężczyźni	[%]	temat=P3555
+459716	poziom=3	w miastach | mężczyźni	[%]	temat=P3555
+459715	poziom=3	w miastach | mężczyźni	[%]	temat=P3555
+461230	poziom=3	na wsi | ogółem	[%]	temat=P3555
+461190	poziom=3	na wsi | ogółem	[%]	temat=P3555
+459966	poziom=3	na wsi | ogółem	[%]	temat=P3555
+459965	poziom=3	na wsi | ogółem	[%]	temat=P3555
+459964	poziom=3	na wsi | ogółem	[%]	temat=P3555
+459963	poziom=3	na wsi | ogółem	[%]	temat=P3555
+459962	poziom=3	na wsi | ogółem	[%]	temat=P3555
+459961	poziom=3	na wsi | ogółem	[%]	temat=P3555
+459960	poziom=3	na wsi | ogółem	[%]	temat=P3555
+459959	poziom=3	na wsi | ogółem	[%]	temat=P3555
+459958	poziom=3	na wsi | ogółem	[%]	temat=P3555
+459957	poziom=3	na wsi | ogółem	[%]	temat=P3555
+459956	poziom=3	na wsi | ogółem	[%]	temat=P3555
+459955	poziom=3	na wsi | ogółem	[%]	temat=P3555
+461280	poziom=3	na wsi | kobiety	[%]	temat=P3555
+461222	poziom=3	na wsi | kobiety	[%]	temat=P3555
+459856	poziom=3	na wsi | kobiety	[%]	temat=P3555
+459855	poziom=3	na wsi | kobiety	[%]	temat=P3555
+459854	poziom=3	na wsi | kobiety	[%]	temat=P3555
+459853	poziom=3	na wsi | kobiety	[%]	temat=P3555
+459852	poziom=3	na wsi | kobiety	[%]	temat=P3555
+459851	poziom=3	na wsi | kobiety	[%]	temat=P3555
+459850	poziom=3	na wsi | kobiety	[%]	temat=P3555
+459849	poziom=3	na wsi | kobiety	[%]	temat=P3555
+459848	poziom=3	na wsi | kobiety	[%]	temat=P3555
+459847	poziom=3	na wsi | kobiety	[%]	temat=P3555
+459846	poziom=3	na wsi | kobiety	[%]	temat=P3555
+459845	poziom=3	na wsi | kobiety	[%]	temat=P3555
+461207	poziom=3	na wsi | mężczyźni	[%]	temat=P3555
+461234	poziom=3	na wsi | mężczyźni	[%]	temat=P3555
+459738	poziom=3	na wsi | mężczyźni	[%]	temat=P3555
+459737	poziom=3	na wsi | mężczyźni	[%]	temat=P3555
+459736	poziom=3	na wsi | mężczyźni	[%]	temat=P3555
+459735	poziom=3	na wsi | mężczyźni	[%]	temat=P3555
+459734	poziom=3	na wsi | mężczyźni	[%]	temat=P3555
+459733	poziom=3	na wsi | mężczyźni	[%]	temat=P3555
+459732	poziom=3	na wsi | mężczyźni	[%]	temat=P3555
+459731	poziom=3	na wsi | mężczyźni	[%]	temat=P3555
+459730	poziom=3	na wsi | mężczyźni	[%]	temat=P3555
+459729	poziom=3	na wsi | mężczyźni	[%]	temat=P3555
+459728	poziom=3	na wsi | mężczyźni	[%]	temat=P3555
+459727	poziom=3	na wsi | mężczyźni	[%]	temat=P3555
+461369	poziom=3	ogółem | ogółem	[%]	temat=P3556
+461374	poziom=3	ogółem | ogółem	[%]	temat=P3556
+460718	poziom=3	ogółem | ogółem	[%]	temat=P3556
+460717	poziom=3	ogółem | ogółem	[%]	temat=P3556
+460716	poziom=3	ogółem | ogółem	[%]	temat=P3556
+460715	poziom=3	ogółem | ogółem	[%]	temat=P3556
+460714	poziom=3	ogółem | ogółem	[%]	temat=P3556
+460713	poziom=3	ogółem | ogółem	[%]	temat=P3556
+460712	poziom=3	ogółem | ogółem	[%]	temat=P3556
+460711	poziom=3	ogółem | ogółem	[%]	temat=P3556
+460710	poziom=3	ogółem | ogółem	[%]	temat=P3556
+460709	poziom=3	ogółem | ogółem	[%]	temat=P3556
+461490	poziom=3	ogółem | kobiety	[%]	temat=P3556
+461484	poziom=3	ogółem | kobiety	[%]	temat=P3556
+460688	poziom=3	ogółem | kobiety	[%]	temat=P3556
+460687	poziom=3	ogółem | kobiety	[%]	temat=P3556
+460686	poziom=3	ogółem | kobiety	[%]	temat=P3556
+460685	poziom=3	ogółem | kobiety	[%]	temat=P3556
+460684	poziom=3	ogółem | kobiety	[%]	temat=P3556
+460683	poziom=3	ogółem | kobiety	[%]	temat=P3556
+460606	poziom=3	ogółem | kobiety	[%]	temat=P3556
+460605	poziom=3	ogółem | kobiety	[%]	temat=P3556
+460604	poziom=3	ogółem | kobiety	[%]	temat=P3556
+460603	poziom=3	ogółem | kobiety	[%]	temat=P3556
+461395	poziom=3	ogółem | mężczyźni	[%]	temat=P3556
+461333	poziom=3	ogółem | mężczyźni	[%]	temat=P3556
+460582	poziom=3	ogółem | mężczyźni	[%]	temat=P3556
+460581	poziom=3	ogółem | mężczyźni	[%]	temat=P3556
+460580	poziom=3	ogółem | mężczyźni	[%]	temat=P3556
+460579	poziom=3	ogółem | mężczyźni	[%]	temat=P3556
+460578	poziom=3	ogółem | mężczyźni	[%]	temat=P3556
+460577	poziom=3	ogółem | mężczyźni	[%]	temat=P3556
+460576	poziom=3	ogółem | mężczyźni	[%]	temat=P3556
+460575	poziom=3	ogółem | mężczyźni	[%]	temat=P3556
+460574	poziom=3	ogółem | mężczyźni	[%]	temat=P3556
+460573	poziom=3	ogółem | mężczyźni	[%]	temat=P3556
+461380	poziom=3	w miastach | ogółem	[%]	temat=P3556
+461415	poziom=3	w miastach | ogółem	[%]	temat=P3556
+460796	poziom=3	w miastach | ogółem	[%]	temat=P3556
+460795	poziom=3	w miastach | ogółem	[%]	temat=P3556
+460794	poziom=3	w miastach | ogółem	[%]	temat=P3556
+460793	poziom=3	w miastach | ogółem	[%]	temat=P3556
+460792	poziom=3	w miastach | ogółem	[%]	temat=P3556
+460791	poziom=3	w miastach | ogółem	[%]	temat=P3556
+460790	poziom=3	w miastach | ogółem	[%]	temat=P3556
+460789	poziom=3	w miastach | ogółem	[%]	temat=P3556
+460788	poziom=3	w miastach | ogółem	[%]	temat=P3556
+460787	poziom=3	w miastach | ogółem	[%]	temat=P3556
+461443	poziom=3	w miastach | kobiety	[%]	temat=P3556
+461363	poziom=3	w miastach | kobiety	[%]	temat=P3556
+460698	poziom=3	w miastach | kobiety	[%]	temat=P3556
+460697	poziom=3	w miastach | kobiety	[%]	temat=P3556
+460696	poziom=3	w miastach | kobiety	[%]	temat=P3556
+460695	poziom=3	w miastach | kobiety	[%]	temat=P3556
+460694	poziom=3	w miastach | kobiety	[%]	temat=P3556
+460693	poziom=3	w miastach | kobiety	[%]	temat=P3556
+460692	poziom=3	w miastach | kobiety	[%]	temat=P3556
+460691	poziom=3	w miastach | kobiety	[%]	temat=P3556
+460690	poziom=3	w miastach | kobiety	[%]	temat=P3556
+460689	poziom=3	w miastach | kobiety	[%]	temat=P3556
+461448	poziom=3	w miastach | mężczyźni	[%]	temat=P3556
+461441	poziom=3	w miastach | mężczyźni	[%]	temat=P3556
+460592	poziom=3	w miastach | mężczyźni	[%]	temat=P3556
+460591	poziom=3	w miastach | mężczyźni	[%]	temat=P3556
+460590	poziom=3	w miastach | mężczyźni	[%]	temat=P3556
+460589	poziom=3	w miastach | mężczyźni	[%]	temat=P3556
+460588	poziom=3	w miastach | mężczyźni	[%]	temat=P3556
+460587	poziom=3	w miastach | mężczyźni	[%]	temat=P3556
+460586	poziom=3	w miastach | mężczyźni	[%]	temat=P3556
+460585	poziom=3	w miastach | mężczyźni	[%]	temat=P3556
+460584	poziom=3	w miastach | mężczyźni	[%]	temat=P3556
+460583	poziom=3	w miastach | mężczyźni	[%]	temat=P3556
+461440	poziom=3	na wsi | ogółem	[%]	temat=P3556
+461356	poziom=3	na wsi | ogółem	[%]	temat=P3556
+460806	poziom=3	na wsi | ogółem	[%]	temat=P3556
+460805	poziom=3	na wsi | ogółem	[%]	temat=P3556
+460804	poziom=3	na wsi | ogółem	[%]	temat=P3556
+460803	poziom=3	na wsi | ogółem	[%]	temat=P3556
+460802	poziom=3	na wsi | ogółem	[%]	temat=P3556
+460801	poziom=3	na wsi | ogółem	[%]	temat=P3556
+460800	poziom=3	na wsi | ogółem	[%]	temat=P3556
+460799	poziom=3	na wsi | ogółem	[%]	temat=P3556
+460798	poziom=3	na wsi | ogółem	[%]	temat=P3556
+460797	poziom=3	na wsi | ogółem	[%]	temat=P3556
+461462	poziom=3	na wsi | kobiety	[%]	temat=P3556
+461493	poziom=3	na wsi | kobiety	[%]	temat=P3556
+460708	poziom=3	na wsi | kobiety	[%]	temat=P3556
+460707	poziom=3	na wsi | kobiety	[%]	temat=P3556
+460706	poziom=3	na wsi | kobiety	[%]	temat=P3556
+460705	poziom=3	na wsi | kobiety	[%]	temat=P3556
+460704	poziom=3	na wsi | kobiety	[%]	temat=P3556
+460703	poziom=3	na wsi | kobiety	[%]	temat=P3556
+460702	poziom=3	na wsi | kobiety	[%]	temat=P3556
+460701	poziom=3	na wsi | kobiety	[%]	temat=P3556
+460700	poziom=3	na wsi | kobiety	[%]	temat=P3556
+460699	poziom=3	na wsi | kobiety	[%]	temat=P3556
+461412	poziom=3	na wsi | mężczyźni	[%]	temat=P3556
+461403	poziom=3	na wsi | mężczyźni	[%]	temat=P3556
+460602	poziom=3	na wsi | mężczyźni	[%]	temat=P3556
+460601	poziom=3	na wsi | mężczyźni	[%]	temat=P3556
+460600	poziom=3	na wsi | mężczyźni	[%]	temat=P3556
+460599	poziom=3	na wsi | mężczyźni	[%]	temat=P3556
+460598	poziom=3	na wsi | mężczyźni	[%]	temat=P3556
+460597	poziom=3	na wsi | mężczyźni	[%]	temat=P3556
+460596	poziom=3	na wsi | mężczyźni	[%]	temat=P3556
+460595	poziom=3	na wsi | mężczyźni	[%]	temat=P3556
+460594	poziom=3	na wsi | mężczyźni	[%]	temat=P3556
+460593	poziom=3	na wsi | mężczyźni	[%]	temat=P3556
+461680	poziom=5	styczeń | stopa bezrobocia rejestrowanego	[%]	temat=P3559
+461681	poziom=5	luty | stopa bezrobocia rejestrowanego	[%]	temat=P3559
+461682	poziom=5	marzec | stopa bezrobocia rejestrowanego	[%]	temat=P3559
+461683	poziom=5	kwiecień | stopa bezrobocia rejestrowanego	[%]	temat=P3559
+461684	poziom=5	maj | stopa bezrobocia rejestrowanego	[%]	temat=P3559
+461685	poziom=5	czerwiec | stopa bezrobocia rejestrowanego	[%]	temat=P3559
+461686	poziom=5	lipiec | stopa bezrobocia rejestrowanego	[%]	temat=P3559
+461687	poziom=5	sierpień | stopa bezrobocia rejestrowanego	[%]	temat=P3559
+461688	poziom=5	wrzesień | stopa bezrobocia rejestrowanego	[%]	temat=P3559
+461689	poziom=5	październik | stopa bezrobocia rejestrowanego	[%]	temat=P3559
+461690	poziom=5	listopad | stopa bezrobocia rejestrowanego	[%]	temat=P3559
+461691	poziom=5	grudzień | stopa bezrobocia rejestrowanego	[%]	temat=P3559
+1539480	poziom=5	stopa bezrobocia | wartość liczbowa	[%]	temat=P3847
+1539481	poziom=5	stopa bezrobocia | wskaźnik precyzji	[%]	temat=P3847
+1614371	poziom=3	1 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614372	poziom=3	1 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614373	poziom=3	1 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614374	poziom=3	1 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614375	poziom=3	1 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614376	poziom=3	1 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614419	poziom=3	2 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614420	poziom=3	2 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614421	poziom=3	2 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614422	poziom=3	2 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614423	poziom=3	2 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614424	poziom=3	2 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614467	poziom=3	3 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614468	poziom=3	3 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614469	poziom=3	3 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614470	poziom=3	3 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614471	poziom=3	3 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614472	poziom=3	3 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614515	poziom=3	4 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614516	poziom=3	4 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614517	poziom=3	4 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614518	poziom=3	4 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614519	poziom=3	4 kwartał | stopa bezrobocia	[%]	temat=P3969
+1614520	poziom=3	4 kwartał | stopa bezrobocia	[%]	temat=P3969
+1638738	poziom=5	stopa bezrobocia | wartość liczbowa	[%]	temat=P4159
+1638739	poziom=5	stopa bezrobocia | wskaźnik precyzji	[%]	temat=P4159
+1654023	poziom=6	ogółem | ogółem	[%]	temat=P4292
+1654032	poziom=6	ogółem | mężczyźni	[%]	temat=P4292
+1654041	poziom=6	ogółem | kobiety	[%]	temat=P4292
+1654050	poziom=6	w miastach | ogółem	[%]	temat=P4292
+1654059	poziom=6	w miastach | mężczyźni	[%]	temat=P4292
+1654068	poziom=6	w miastach | kobiety	[%]	temat=P4292
+1654077	poziom=6	na wsi | ogółem	[%]	temat=P4292
+1654086	poziom=6	na wsi | mężczyźni	[%]	temat=P4292
+1654095	poziom=6	na wsi | kobiety	[%]	temat=P4292
+1655481	poziom=6	ogółem | ogółem	[%]	temat=P4305
+1655490	poziom=6	ogółem | mężczyźni	[%]	temat=P4305
+1655499	poziom=6	ogółem | kobiety	[%]	temat=P4305
+1655508	poziom=6	w miastach | ogółem	[%]	temat=P4305
+1655517	poziom=6	w miastach | mężczyźni	[%]	temat=P4305
+1655526	poziom=6	w miastach | kobiety	[%]	temat=P4305
+1655535	poziom=6	na wsi | ogółem	[%]	temat=P4305
+1655544	poziom=6	na wsi | mężczyźni	[%]	temat=P4305
+1655553	poziom=6	na wsi | kobiety	[%]	temat=P4305
