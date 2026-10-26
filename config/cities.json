@@ -1,0 +1,20 @@
+[
+  {"city": "Białystok", "unit_id": null},
+  {"city": "Bydgoszcz", "unit_id": null},
+  {"city": "Toruń", "unit_id": null},
+  {"city": "Gdańsk", "unit_id": null},
+  {"city": "Gorzów Wielkopolski", "unit_id": null},
+  {"city": "Katowice", "unit_id": null},
+  {"city": "Kielce", "unit_id": null},
+  {"city": "Kraków", "unit_id": null},
+  {"city": "Lublin", "unit_id": null},
+  {"city": "Łódź", "unit_id": null},
+  {"city": "Olsztyn", "unit_id": null},
+  {"city": "Opole", "unit_id": null},
+  {"city": "Poznań", "unit_id": null},
+  {"city": "Rzeszów", "unit_id": null},
+  {"city": "Szczecin", "unit_id": null},
+  {"city": "Warszawa", "unit_id": null},
+  {"city": "Wrocław", "unit_id": null},
+  {"city": "Zielona Góra", "unit_id": null}
+]

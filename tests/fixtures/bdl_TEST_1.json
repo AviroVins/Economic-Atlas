@@ -1,0 +1,13 @@
+{
+  "indicator": {"code": "TEST_ind", "var_id": 1, "name": "dane syntetyczne", "unit": "%", "direction": "lower_is_better"},
+  "years_requested": [2022, 2023],
+  "pages": [{
+    "request_url": "syntetyczne", "retrieved_at": "2026-01-01T00:00:00+00:00", "rate_limit_headers": {},
+    "response": {"totalRecords": 4, "page": 0, "pageSize": 100, "results": [
+      {"id": "A1", "name": "Miasto A", "values": [{"year": "2022", "val": 5.5, "attrId": 1}, {"year": "2023", "val": 5.0, "attrId": 1}]},
+      {"id": "B2", "name": "Miasto B", "values": [{"year": "2022", "val": 7.1, "attrId": 1}, {"year": "2023", "val": null, "attrId": 1}]},
+      {"id": "A1", "name": "Miasto A", "values": [{"year": "2022", "val": 5.5, "attrId": 1}]},
+      {"id": "ZZ", "name": "Powiat poza listą", "values": [{"year": "2022", "val": 9.9, "attrId": 1}]}
+    ]}
+  }]
+}

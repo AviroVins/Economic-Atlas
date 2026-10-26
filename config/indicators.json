@@ -1,0 +1,9 @@
+[
+  {
+    "code": "PRZYKLAD_bezrobocie",
+    "var_id": null,
+    "name": "UZUPEŁNIJ po audycie (python scripts/discover.py variables --name ...)",
+    "unit": "",
+    "direction": "lower_is_better"
+  }
+]
