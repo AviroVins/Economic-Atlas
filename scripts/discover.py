@@ -14,6 +14,9 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 from bdl_client import BdlClient  # noqa: E402
 
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
 ROOT = Path(__file__).resolve().parents[1]
 POWIAT_LEVEL = 5  # w BDL miasta na prawach powiatu są jednostkami poziomu "powiat" - zweryfikuj w dokumentacji
 
