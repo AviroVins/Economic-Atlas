@@ -1,0 +1,182 @@
+city,unit_id,indicator_code,year,value,is_missing
+Białystok,062013761000,bezrobocie_rok,2019,5.808333333333334,False
+Białystok,062013761000,bezrobocie_rok,2020,-5.0,False
+Białystok,000000000000,bezrobocie_rok,2021,6.883333333333333,False
+Białystok,062013761000,bezrobocie_rok,2022,5.741666666666667,False
+Białystok,062013761000,bezrobocie_rok,2023,5.208333333333333,False
+Bydgoszcz,040410661000,bezrobocie_rok,2019,3.3166666666666664,False
+Bydgoszcz,040410661000,bezrobocie_rok,2020,3.25,False
+Bydgoszcz,040410661000,bezrobocie_rok,2021,3.266666666666667,False
+Bydgoszcz,040410661000,bezrobocie_rok,2022,2.216666666666667,False
+Bydgoszcz,040410661000,bezrobocie_rok,2023,2.341666666666667,False
+Gdańsk,042214361000,bezrobocie_rok,2019,2.533333333333333,False
+Gdańsk,042214361000,bezrobocie_rok,2020,3.0749999999999997,False
+Gdańsk,042214361000,bezrobocie_rok,2021,3.5583333333333336,False
+Gdańsk,042214361000,bezrobocie_rok,2022,2.525,False
+Gdańsk,042214361000,bezrobocie_rok,2023,2.5,False
+Gorzów Wielkopolski,020811361000,bezrobocie_rok,2019,2.3666666666666667,False
+Gorzów Wielkopolski,020811361000,bezrobocie_rok,2020,3.475,False
+Gorzów Wielkopolski,020811361000,bezrobocie_rok,2021,3.283333333333333,False
+Gorzów Wielkopolski,020811361000,bezrobocie_rok,2022,2.3666666666666667,False
+Gorzów Wielkopolski,020811361000,bezrobocie_rok,2023,2.4499999999999997,False
+Katowice,012414869000,bezrobocie_rok,2019,1.3583333333333334,False
+Katowice,012414869000,bezrobocie_rok,2020,1.4416666666666667,False
+Katowice,012414869000,bezrobocie_rok,2021,1.8333333333333333,False
+Katowice,012414869000,bezrobocie_rok,2022,1.7083333333333333,False
+Katowice,012414869000,bezrobocie_rok,2023,1.2083333333333333,False
+Kielce,052615261000,bezrobocie_rok,2019,5.133333333333334,False
+Kielce,052615261000,bezrobocie_rok,2020,5.616666666666667,False
+Kielce,052615261000,bezrobocie_rok,2021,5.658333333333334,False
+Kielce,052615261000,bezrobocie_rok,2022,4.8,False
+Kielce,052615261000,bezrobocie_rok,2023,4.741666666666666,False
+Kraków,011212161000,bezrobocie_rok,2019,2.1999999999999997,False
+Kraków,011212161000,bezrobocie_rok,2020,2.5500000000000003,False
+Kraków,011212161000,bezrobocie_rok,2021,3.158333333333333,False
+Kraków,011212161000,bezrobocie_rok,2022,2.525,False
+Kraków,011212161000,bezrobocie_rok,2023,2.091666666666667,False
+Lublin,060611163000,bezrobocie_rok,2019,5.208333333333333,False
+Lublin,060611163000,bezrobocie_rok,2020,5.516666666666667,False
+Lublin,060611163000,bezrobocie_rok,2021,5.566666666666666,False
+Lublin,060611163000,bezrobocie_rok,2022,5.2,False
+Lublin,060611163000,bezrobocie_rok,2023,4.683333333333334,False
+Olsztyn,042815662000,bezrobocie_rok,2019,2.975,False
+Olsztyn,042815662000,bezrobocie_rok,2020,3.4,False
+Olsztyn,042815662000,bezrobocie_rok,2021,3.1333333333333333,False
+Olsztyn,042815662000,bezrobocie_rok,2022,2.0749999999999997,False
+Olsztyn,042815662000,bezrobocie_rok,2023,2.0833333333333335,False
+Opole,031613261000,bezrobocie_rok,2019,2.8166666666666664,False
+Opole,031613261000,bezrobocie_rok,2020,3.4499999999999997,False
+Opole,031613261000,bezrobocie_rok,2021,3.625,False
+Opole,031613261000,bezrobocie_rok,2022,3.1166666666666667,False
+Opole,031613261000,bezrobocie_rok,2023,3.0500000000000003,False
+Poznań,023016264000,bezrobocie_rok,2019,1.2083333333333333,False
+Poznań,023016264000,bezrobocie_rok,2020,1.6083333333333334,False
+Poznań,023016264000,bezrobocie_rok,2021,2.0,False
+Poznań,023016264000,bezrobocie_rok,2022,1.1833333333333333,False
+Poznań,023016264000,bezrobocie_rok,2023,1.1166666666666667,False
+Rzeszów,061813563000,bezrobocie_rok,2019,4.958333333333333,False
+Rzeszów,061813563000,bezrobocie_rok,2020,5.3999999999999995,False
+Rzeszów,061813563000,bezrobocie_rok,2021,5.533333333333334,False
+Rzeszów,061813563000,bezrobocie_rok,2022,4.566666666666666,False
+Rzeszów,061813563000,bezrobocie_rok,2023,4.3,False
+Szczecin,023216562000,bezrobocie_rok,2019,2.5083333333333333,False
+Szczecin,023216562000,bezrobocie_rok,2020,3.35,False
+Szczecin,023216562000,bezrobocie_rok,2021,3.8000000000000003,False
+Szczecin,023216562000,bezrobocie_rok,2022,3.1,False
+Szczecin,023216562000,bezrobocie_rok,2023,3.516666666666667,False
+Toruń,040410663000,bezrobocie_rok,2019,4.2749999999999995,False
+Toruń,040410663000,bezrobocie_rok,2020,4.391666666666667,False
+Toruń,040410663000,bezrobocie_rok,2021,4.358333333333333,False
+Toruń,040410663000,bezrobocie_rok,2022,3.591666666666667,False
+Toruń,040410663000,bezrobocie_rok,2023,3.2583333333333333,False
+Warszawa,071412865000,bezrobocie_rok,2019,1.4000000000000001,False
+Warszawa,071412865000,bezrobocie_rok,2020,1.6083333333333334,False
+Warszawa,071412865000,bezrobocie_rok,2021,1.9083333333333332,False
+Warszawa,071412865000,bezrobocie_rok,2022,1.6166666666666665,False
+Warszawa,071412865000,bezrobocie_rok,2023,1.4583333333333333,False
+Wrocław,030210564000,bezrobocie_rok,2019,1.7416666666666665,False
+Wrocław,030210564000,bezrobocie_rok,2020,2.1166666666666667,False
+Wrocław,030210564000,bezrobocie_rok,2021,2.4,False
+Wrocław,030210564000,bezrobocie_rok,2022,1.6833333333333333,False
+Wrocław,030210564000,bezrobocie_rok,2023,1.625,False
+Zielona Góra,020811462000,bezrobocie_rok,2019,2.908333333333333,False
+Zielona Góra,020811462000,bezrobocie_rok,2020,3.4333333333333336,False
+Zielona Góra,020811462000,bezrobocie_rok,2021,3.9916666666666667,False
+Zielona Góra,020811462000,bezrobocie_rok,2022,3.0583333333333336,False
+Zielona Góra,020811462000,bezrobocie_rok,2023,2.8666666666666667,False
+Łódź,051011661000,bezrobocie_rok,2019,5.133333333333334,False
+Łódź,051011661000,bezrobocie_rok,2020,5.491666666666667,False
+Łódź,051011661000,bezrobocie_rok,2021,6.1499999999999995,False
+Łódź,051011661000,bezrobocie_rok,2022,5.333333333333333,False
+Łódź,051011661000,bezrobocie_rok,2023,4.608333333333333,False
+Białystok,062013761000,wynagrodzenie_wzgledne,2019,91.6,False
+Białystok,062013761000,wynagrodzenie_wzgledne,2020,92.8,False
+Białystok,062013761000,wynagrodzenie_wzgledne,2021,94.2,False
+Białystok,062013761000,wynagrodzenie_wzgledne,2022,92.2,False
+Białystok,062013761000,wynagrodzenie_wzgledne,2023,93.3,False
+Bydgoszcz,040410661000,wynagrodzenie_wzgledne,2019,95.7,False
+Bydgoszcz,040410661000,wynagrodzenie_wzgledne,2020,95.1,False
+Bydgoszcz,040410661000,wynagrodzenie_wzgledne,2021,97.5,False
+Bydgoszcz,040410661000,wynagrodzenie_wzgledne,2022,96.0,False
+Bydgoszcz,040410661000,wynagrodzenie_wzgledne,2023,98.5,False
+Gdańsk,042214361000,wynagrodzenie_wzgledne,2019,118.8,False
+Gdańsk,042214361000,wynagrodzenie_wzgledne,2020,117.5,False
+Gdańsk,042214361000,wynagrodzenie_wzgledne,2021,118.1,False
+Gdańsk,042214361000,wynagrodzenie_wzgledne,2022,117.5,False
+Gdańsk,042214361000,wynagrodzenie_wzgledne,2023,117.4,False
+Gorzów Wielkopolski,020811361000,wynagrodzenie_wzgledne,2019,86.8,False
+Gorzów Wielkopolski,020811361000,wynagrodzenie_wzgledne,2020,86.7,False
+Gorzów Wielkopolski,020811361000,wynagrodzenie_wzgledne,2021,87.4,False
+Gorzów Wielkopolski,020811361000,wynagrodzenie_wzgledne,2022,87.8,False
+Gorzów Wielkopolski,020811361000,wynagrodzenie_wzgledne,2023,88.4,False
+Katowice,012414869000,wynagrodzenie_wzgledne,2019,119.2,False
+Katowice,012414869000,wynagrodzenie_wzgledne,2020,118.2,False
+Katowice,012414869000,wynagrodzenie_wzgledne,2021,115.4,False
+Katowice,012414869000,wynagrodzenie_wzgledne,2022,119.6,False
+Katowice,012414869000,wynagrodzenie_wzgledne,2023,119.9,False
+Kielce,052615261000,wynagrodzenie_wzgledne,2019,94.2,False
+Kielce,052615261000,wynagrodzenie_wzgledne,2020,94.5,False
+Kielce,052615261000,wynagrodzenie_wzgledne,2021,94.1,False
+Kielce,052615261000,wynagrodzenie_wzgledne,2022,92.2,False
+Kielce,052615261000,wynagrodzenie_wzgledne,2023,93.0,False
+Kraków,011212161000,wynagrodzenie_wzgledne,2019,113.5,False
+Kraków,011212161000,wynagrodzenie_wzgledne,2020,117.4,False
+Kraków,011212161000,wynagrodzenie_wzgledne,2021,120.0,False
+Kraków,011212161000,wynagrodzenie_wzgledne,2022,121.7,False
+Kraków,011212161000,wynagrodzenie_wzgledne,2023,121.4,False
+Lublin,060611163000,wynagrodzenie_wzgledne,2019,97.6,False
+Lublin,060611163000,wynagrodzenie_wzgledne,2020,98.0,False
+Lublin,060611163000,wynagrodzenie_wzgledne,2021,97.2,False
+Lublin,060611163000,wynagrodzenie_wzgledne,2022,95.5,False
+Lublin,060611163000,wynagrodzenie_wzgledne,2023,98.0,False
+Olsztyn,042815662000,wynagrodzenie_wzgledne,2019,96.9,False
+Olsztyn,042815662000,wynagrodzenie_wzgledne,2020,98.5,False
+Olsztyn,042815662000,wynagrodzenie_wzgledne,2021,98.4,False
+Olsztyn,042815662000,wynagrodzenie_wzgledne,2022,97.0,False
+Olsztyn,042815662000,wynagrodzenie_wzgledne,2023,97.3,False
+Opole,031613261000,wynagrodzenie_wzgledne,2019,99.3,False
+Opole,031613261000,wynagrodzenie_wzgledne,2020,100.0,False
+Opole,031613261000,wynagrodzenie_wzgledne,2021,100.2,False
+Opole,031613261000,wynagrodzenie_wzgledne,2022,97.8,False
+Opole,031613261000,wynagrodzenie_wzgledne,2023,99.0,False
+Poznań,023016264000,wynagrodzenie_wzgledne,2019,110.3,False
+Poznań,023016264000,wynagrodzenie_wzgledne,2020,110.5,False
+Poznań,023016264000,wynagrodzenie_wzgledne,2021,111.0,False
+Poznań,023016264000,wynagrodzenie_wzgledne,2022,109.8,False
+Poznań,023016264000,wynagrodzenie_wzgledne,2023,109.3,False
+Rzeszów,061813563000,wynagrodzenie_wzgledne,2019,98.8,False
+Rzeszów,061813563000,wynagrodzenie_wzgledne,2020,99.9,False
+Rzeszów,061813563000,wynagrodzenie_wzgledne,2021,101.2,False
+Rzeszów,061813563000,wynagrodzenie_wzgledne,2022,97.1,False
+Rzeszów,061813563000,wynagrodzenie_wzgledne,2023,97.8,False
+Szczecin,023216562000,wynagrodzenie_wzgledne,2019,104.4,False
+Szczecin,023216562000,wynagrodzenie_wzgledne,2020,103.1,False
+Szczecin,023216562000,wynagrodzenie_wzgledne,2021,104.1,False
+Szczecin,023216562000,wynagrodzenie_wzgledne,2022,103.6,False
+Szczecin,023216562000,wynagrodzenie_wzgledne,2023,104.5,False
+Toruń,040410663000,wynagrodzenie_wzgledne,2019,96.1,False
+Toruń,040410663000,wynagrodzenie_wzgledne,2020,96.5,False
+Toruń,040410663000,wynagrodzenie_wzgledne,2021,97.3,False
+Toruń,040410663000,wynagrodzenie_wzgledne,2022,96.2,False
+Toruń,040410663000,wynagrodzenie_wzgledne,2023,96.2,False
+Warszawa,071412865000,wynagrodzenie_wzgledne,2019,131.3,False
+Warszawa,071412865000,wynagrodzenie_wzgledne,2020,129.4,False
+Warszawa,071412865000,wynagrodzenie_wzgledne,2021,128.1,False
+Warszawa,071412865000,wynagrodzenie_wzgledne,2022,127.4,False
+Warszawa,071412865000,wynagrodzenie_wzgledne,2023,126.7,False
+Wrocław,030210564000,wynagrodzenie_wzgledne,2019,111.1,False
+Wrocław,030210564000,wynagrodzenie_wzgledne,2020,111.2,False
+Wrocław,030210564000,wynagrodzenie_wzgledne,2021,111.5,False
+Wrocław,030210564000,wynagrodzenie_wzgledne,2022,110.2,False
+Wrocław,030210564000,wynagrodzenie_wzgledne,2023,109.7,False
+Zielona Góra,020811462000,wynagrodzenie_wzgledne,2019,94.4,False
+Zielona Góra,020811462000,wynagrodzenie_wzgledne,2020,94.4,False
+Zielona Góra,020811462000,wynagrodzenie_wzgledne,2021,94.9,False
+Zielona Góra,020811462000,wynagrodzenie_wzgledne,2022,96.4,False
+Zielona Góra,020811462000,wynagrodzenie_wzgledne,2023,98.6,False
+Łódź,051011661000,wynagrodzenie_wzgledne,2019,99.9,False
+Łódź,051011661000,wynagrodzenie_wzgledne,2020,99.8,False
+Łódź,051011661000,wynagrodzenie_wzgledne,2021,101.0,False
+Łódź,051011661000,wynagrodzenie_wzgledne,2022,98.9,False
+Łódź,051011661000,wynagrodzenie_wzgledne,2023,99.4,False
+Białystok,062013761000,bezrobocie_rok,2019,5.808333333333334,False

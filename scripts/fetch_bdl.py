@@ -1,7 +1,7 @@
 """Pobiera surowe dane BDL dla wskaźników z config/indicators.json (poziom: powiaty/miasta na prawach powiatu).
 
   python scripts/fetch_bdl.py --years 2019-2023            # wszystkie wskaźniki -> data/raw/
-  python scripts/fetch_bdl.py --years 2023 --sample        # Lab 2: jedna próbka -> data/sample.json
+  python scripts/fetch_bdl.py --years 2023 --sample        # Lab 2: jedna próbka -> data/raw/sample.json
 
 Odpowiedzi API zapisywane są bez zmian (w opakowaniu z adresem, datą i nagłówkami limitów).
 Istniejące pliki nie są nadpisywane bez --force (oszczędza limity zapytań).
@@ -10,6 +10,11 @@ import argparse
 import json
 import sys
 from pathlib import Path
+
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
 sys.path.insert(0, str(Path(__file__).parent))
 from bdl_client import BdlClient  # noqa: E402
@@ -34,7 +39,7 @@ def fetch_indicator(client, ind, years):
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--years", required=True)
-    p.add_argument("--sample", action="store_true", help="tylko pierwszy wskaźnik, ostatni rok -> data/sample.json")
+    p.add_argument("--sample", action="store_true", help="tylko pierwszy wskaźnik, ostatni rok -> data/raw/sample.json")
     p.add_argument("--force", action="store_true")
     args = p.parse_args()
 
@@ -46,7 +51,7 @@ def main():
 
     client = BdlClient()
     if args.sample:
-        out = ROOT / "data" / "sample.json"
+        out = ROOT / "data" / "raw" / "sample.json"
         raw = fetch_indicator(client, indicators[0], [years[-1]])
         out.write_text(json.dumps(raw, ensure_ascii=False, indent=2), encoding="utf-8")
         print(f"Zapisano próbkę: {out}")
