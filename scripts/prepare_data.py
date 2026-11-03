@@ -15,6 +15,11 @@ import json
 import sys
 from pathlib import Path
 
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+if hasattr(sys.stderr, "reconfigure"):
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+
 import pandas as pd
 
 sys.path.insert(0, str(Path(__file__).parent))
@@ -57,6 +62,17 @@ def transform(raw_files: list[Path], cities: list[dict]):
     before = len(df)
     df = df.drop_duplicates().copy()
     stats["duplicates_dropped"] = before - len(df)
+
+    # Agregacja: 12 miesięcy stopy bezrobocia -> jedna wartość roczna
+    MONTHS = [f"bezrobocie_{m:02d}" for m in range(1, 13)]
+    mask = df["indicator_code"].isin(MONTHS)
+    rok = (df[mask].groupby(["city", "unit_id", "year"], as_index=False)
+           .agg(value=("value", "mean"), n=("value", "count")))
+    rok.loc[rok["n"] < 12, "value"] = float("nan")   # brak któregokolwiek miesiąca = brak roku
+    rok["indicator_code"] = "bezrobocie_rok"
+    rok = rok[["city", "unit_id", "indicator_code", "year", "value"]]
+    df = pd.concat([df[~mask], rok], ignore_index=True)
+    stats["monthly_to_annual_rows"] = len(rok)
 
     df["is_missing"] = df["value"].isna()
     df = df.sort_values(["indicator_code", "city", "year"]).reset_index(drop=True)

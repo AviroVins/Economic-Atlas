@@ -1,9 +1,15 @@
 [
-  {
-    "code": "PRZYKLAD_bezrobocie",
-    "var_id": null,
-    "name": "UZUPEŁNIJ po audycie (python scripts/discover.py variables --name ...)",
-    "unit": "",
-    "direction": "lower_is_better"
-  }
+  {"code": "bezrobocie_01", "var_id": 461680, "name": "Stopa bezrobocia rejestrowanego - styczeń", "unit": "%", "direction": "lower_is_better"},
+  {"code": "bezrobocie_02", "var_id": 461681, "name": "Stopa bezrobocia rejestrowanego - luty", "unit": "%", "direction": "lower_is_better"},
+  {"code": "bezrobocie_03", "var_id": 461682, "name": "Stopa bezrobocia rejestrowanego - marzec", "unit": "%", "direction": "lower_is_better"},
+  {"code": "bezrobocie_04", "var_id": 461683, "name": "Stopa bezrobocia rejestrowanego - kwiecień", "unit": "%", "direction": "lower_is_better"},
+  {"code": "bezrobocie_05", "var_id": 461684, "name": "Stopa bezrobocia rejestrowanego - maj", "unit": "%", "direction": "lower_is_better"},
+  {"code": "bezrobocie_06", "var_id": 461685, "name": "Stopa bezrobocia rejestrowanego - czerwiec", "unit": "%", "direction": "lower_is_better"},
+  {"code": "bezrobocie_07", "var_id": 461686, "name": "Stopa bezrobocia rejestrowanego - lipiec", "unit": "%", "direction": "lower_is_better"},
+  {"code": "bezrobocie_08", "var_id": 461687, "name": "Stopa bezrobocia rejestrowanego - sierpień", "unit": "%", "direction": "lower_is_better"},
+  {"code": "bezrobocie_09", "var_id": 461688, "name": "Stopa bezrobocia rejestrowanego - wrzesień", "unit": "%", "direction": "lower_is_better"},
+  {"code": "bezrobocie_10", "var_id": 461689, "name": "Stopa bezrobocia rejestrowanego - październik", "unit": "%", "direction": "lower_is_better"},
+  {"code": "bezrobocie_11", "var_id": 461690, "name": "Stopa bezrobocia rejestrowanego - listopad", "unit": "%", "direction": "lower_is_better"},
+  {"code": "bezrobocie_12", "var_id": 461691, "name": "Stopa bezrobocia rejestrowanego - grudzień", "unit": "%", "direction": "lower_is_better"},
+  {"code": "wynagrodzenie_wzgledne", "var_id": 64429, "name": "Przeciętne miesięczne wynagrodzenia brutto w relacji do średniej krajowej (Polska=100)", "unit": "%", "direction": "higher_is_better"}
 ]

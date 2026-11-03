@@ -4,7 +4,7 @@ Narzędzie analityczne porównujące sytuację ekonomiczną 18 miast wojewódzki
 publicznych danych GUS (Bank Danych Lokalnych). Indeks jest syntetycznym narzędziem porównawczym
 opracowanym na potrzeby projektu - nie jest oficjalnym wskaźnikiem GUS.
 
-**Zespół:** `login1`, `login2` (uzupełnić)
+**Zespół:** `Mati`, `Maja`
 **Dokumentacja:** [problem](docs/problem.md) · [dane i źródła](docs/data.md) ·
 [słownik danych](docs/data-dictionary.md) · [przetwarzanie](docs/processing.md)
 
@@ -23,6 +23,7 @@ Opcjonalnie: skopiuj `.env.example` do `.env` i wpisz `BDL_CLIENT_ID` (klucz nie
 ```powershell
 python scripts/discover.py units                          # audyt: kandydaci id miast -> config/cities.json
 python scripts/discover.py variables --name "bezrobotni"  # audyt: kandydaci wskaźników -> config/indicators.json
+python scripts/fetch_bdl.py --years 2023 --sample        # próbka surowych danych -> data/raw/sample.json
 python scripts/fetch_bdl.py --years 2019-2023             # surowe dane -> data/raw/
 python scripts/prepare_data.py data/raw data/processed/observations.csv
 python scripts/checks.py data/processed/observations.csv  # kontrole jakości
